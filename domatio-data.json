@@ -1,0 +1,144 @@
+{
+    "domatio-data" : [
+        {
+            "name" : "w3schools",
+            "category" : [
+                10
+            ],
+            "link" : "https://www.w3schools.com/",
+            "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+            "desc" : "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
+            "tags" : [
+                "beginners",
+                "tutorials",
+                "learning",
+                "self-study"
+            ]
+        },
+        {
+            "name" : "CSS-Tricks",
+            "category" : [
+                10
+            ],
+            "link" : "https://css-tricks.com/",
+            "image": "https://css-tricks.com/wp-content/uploads/2020/12/social-default.png",
+            "desc" : "Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.",
+            "tags" : [
+                "tutorial",
+                "learning",
+                "self-study",
+                "design",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "MDN Web Docs",
+            "category" : [
+                10
+            ],
+            "link" : "https://developer.mozilla.org/",
+            "image": "https://developer.mozilla.org/mdn-social-share.0ca9dbda.png",
+            "desc" : "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.",
+            "tags" : [
+                "learning",
+                "self-study",
+                "documentation"
+            ]
+        },
+        {
+            "name" : "JavaScript.info",
+            "category" : [
+                10
+            ],
+            "link" : "https://javascript.info/",
+            "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+            "desc" : "Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.",
+            "tags" : [
+                "learning",
+                "self-study",
+                "documentation",
+                "javascript",
+                "tutorial"
+            ]
+        },
+        {
+            "name" : "A Programmer",
+            "category" : [
+                10
+            ],
+            "link" : "https://www.aprogrammer.blog/",
+            "image": "https://www.aprogrammer.blog/images/web/logo.png",
+            "desc" : "Welcome From A Programmer",
+            "tags" : [
+                "learning",
+                "self-study",
+                "blog",
+                "myanmar",
+                "course"
+            ]
+        },
+        {
+            "name" : "DevNote",
+            "category" : [
+                10
+            ],
+            "link" : "https://www.devnote.blog/",
+            "image": "https://www.devnote.blog/img/logo/full.png",
+            "desc" : " Myanmar Dev Blog Dedicated to CS, Programming, Software Engineering and JavaScript ♥️",
+            "tags" : [
+                "blog",
+                "self-study",
+                "documentation",
+                "myanmar"
+            ]
+        },
+        {
+            "name" : "Tech Guru",
+            "category" : [
+                10
+            ],
+            "link" : "https://mmtechguru.com/",
+            "image": "",
+            "desc" : "သင်တန်းကျောင်းတစ်ခုဖြစ်ပြီး Information Technology ဆိုင်ရာ နည်းပညာများဖြင့် IT Professional တစ်ယောက်အဖြစ် အသက်မွေး ဝမ်းကျောင်းပြုလိုသူများတွက် ကူညီလမ်းပြပေးနေသော သင်တန်း တစ်ခုပါ။",
+            "tags" : [
+                "learning",
+                "self-study",
+                "myanmar",
+                "free",
+                "course"
+            ]
+        },
+        {
+            "name" : "Ei Maung",
+            "category" : [
+                10
+            ],
+            "link" : "https://eimaung.com/",
+            "image": "https://eimaung.com/img/eimg.png",
+            "desc" : "Professional web developer since 2006. Co-founder of Fairway Technology, a software development and professional education service company. Currently working as Managing Partner and teaching web development courses.",
+            "tags" : [
+                "learning",
+                "self-study",
+                "myanmar",
+                "books",
+                "free"
+            ]
+        },
+        {
+            "name" : "Exploring JS",
+            "category" : [
+                10
+            ],
+            "link" : "https://exploringjs.com/",
+            "image": "https://exploringjs.com/deep-js/img-homepage/cover-homepage.jpg",
+            "desc" : "Exploring JS: JavaScript books for programmers",
+            "tags" : [
+                "learning",
+                "self-study",
+                "documentation",
+                "javascript",
+                "books"
+            ]
+        }
+    ]
+}
