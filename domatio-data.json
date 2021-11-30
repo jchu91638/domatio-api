@@ -1,7 +1,8 @@
 {
-    "domatio-data" : [
+    "domatio" : [
         {
             "name" : "w3schools",
+            "title": "W3Schools Online Web Tutorials",
             "category" : [
                 10
             ],
@@ -10,7 +11,7 @@
             "desc" : "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
             "tags" : [
                 "beginners",
-                "tutorials",
+                "tutorial",
                 "learning",
                 "self-study"
             ]
@@ -47,6 +48,7 @@
         },
         {
             "name" : "JavaScript.info",
+            "title": "The Modern JavaScript Tutorial",
             "category" : [
                 10
             ],
@@ -67,7 +69,6 @@
                 10
             ],
             "link" : "https://www.aprogrammer.blog/",
-            "image": "https://www.aprogrammer.blog/images/web/logo.png",
             "desc" : "Welcome From A Programmer",
             "tags" : [
                 "learning",
@@ -79,6 +80,7 @@
         },
         {
             "name" : "DevNote",
+            "title": "DevNote \uD83D\uDC68\u200D\uD83D\uDCBB",
             "category" : [
                 10
             ],
@@ -98,7 +100,6 @@
                 10
             ],
             "link" : "https://mmtechguru.com/",
-            "image": "",
             "desc" : "သင်တန်းကျောင်းတစ်ခုဖြစ်ပြီး Information Technology ဆိုင်ရာ နည်းပညာများဖြင့် IT Professional တစ်ယောက်အဖြစ် အသက်မွေး ဝမ်းကျောင်းပြုလိုသူများတွက် ကူညီလမ်းပြပေးနေသော သင်တန်း တစ်ခုပါ။",
             "tags" : [
                 "learning",
@@ -110,11 +111,11 @@
         },
         {
             "name" : "Ei Maung",
+            "title": "Ei Maung : Personal Profile",
             "category" : [
                 10
             ],
             "link" : "https://eimaung.com/",
-            "image": "https://eimaung.com/img/eimg.png",
             "desc" : "Professional web developer since 2006. Co-founder of Fairway Technology, a software development and professional education service company. Currently working as Managing Partner and teaching web development courses.",
             "tags" : [
                 "learning",
@@ -126,11 +127,11 @@
         },
         {
             "name" : "Exploring JS",
+            "title": "Exploring JS: JavaScript books for programmers",
             "category" : [
                 10
             ],
             "link" : "https://exploringjs.com/",
-            "image": "https://exploringjs.com/deep-js/img-homepage/cover-homepage.jpg",
             "desc" : "Exploring JS: JavaScript books for programmers",
             "tags" : [
                 "learning",
@@ -139,6 +140,178 @@
                 "javascript",
                 "books"
             ]
+        },
+        {
+            "name" : "Frontend Masters",
+            "title": "Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!",
+            "category" : [
+                10
+            ],
+            "link" : "https://frontendmasters.com/",
+            "image": "https://static.frontendmasters.com/assets/fm/med/home/FEM-OPENGraph.jpg",
+            "desc" : "Advance your skills with in-depth, modern JavaScript and front-end engineering courses.",
+            "tags" :[
+                "self-study",
+                "course",
+                "frontend",
+                "design",
+                "learning"
+            ]
+
+        },
+        {
+            "name" : "Free Developer Stuff",
+            "category" : [
+                10
+            ],
+            "link" : "https://freestuff.dev/",
+            "image": "https://i.ibb.co/vVXdSqH/thumbnail-fsd.jpg",
+            "desc" : "List of free stuff for developer by developer to use. This is a collective list of useful services for developer you can use for your next MVP or prototpying your idea.",
+            "tags" :[
+                "free",
+                "tools",
+                "development"
+            ]
+
+        },
+        {
+            "name" : "Speaking JS",
+            "title": "Speaking JavaScript: An In-Depth Guide for Programmers",
+            "category" : [
+                10
+            ],
+            "link" : "http://speakingjs.com/",
+            "tags" :[
+                "javascript",
+                "books",
+                "self-study"
+            ]
+
+        },
+        {
+            "name" : "Grid by Example",
+            "title": "Grid by Example - Usage examples of CSS Grid Layout",
+            "category" : [
+                10
+            ],
+            "link" : "https://gridbyexample.com/examples/",
+            "tags" :[
+                "css",
+                "design",
+                "frontend"
+            ]
+
+        },
+        {
+            "name" : "JSON Beautifier",
+            "title": "JSON Beautifier - CSVJSON",
+            "category" : [
+                10
+            ],
+            "link" : "https://csvjson.com/json_beautifier",
+            "desc" : "Online tool for validating, formatting and beautifying JSON.",
+            "tags" :[
+                "tools",
+                "javascript",
+                "beautifier"
+            ]
+
+        },
+        {
+            "name" : "Glitch",
+            "category" : [
+                10
+            ],
+            "link" : "https://glitch.com/",
+            "image": "https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2Fglitch-social.png?v=1619667563754",
+            "desc" : "Simple, powerful, free tools to create and use millions of apps.",
+            "tags" :[
+                "development",
+                "editor"
+            ]
+
+        },
+        {
+            "name" : "UI Patterns",
+            "title": "CodePen Topics",
+            "category" : [
+                10
+            ],
+            "link" : "https://codepen.io/topics/ui-pattern",
+            "tags" :[
+                "UI",
+                "design",
+                "frontend",
+                "development"
+            ]
+
+        },
+        {
+            "name" : "CodePen",
+            "title": "CodePen: Online Code Editor and Front End Web Developer Community",
+            "category" : [
+                10
+            ],
+            "link" : "https://codepen.io/",
+            "image": "https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png",
+            "desc" : "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.",
+            "tags" :[
+                "learning",
+                "editor",
+                "self-study",
+                "frontend",
+                "design"
+            ]
+
+        },
+        {
+            "name" : "Code Sand Box",
+            "title": "Where teams build faster, together",
+            "category" : [
+                10
+            ],
+            "link" : "https://codesandbox.io/",
+            "desc" : "Create, share, and get feedback with collaborative sandboxes for rapid web development.",
+            "tags" :[
+                "learning",
+                "editor",
+                "self-study",
+                "frontend",
+                "design",
+                "team"
+            ]
+
+        },
+        {
+            "name" : "JS Fiddle",
+            "title": "JSFiddle - Code Playground",
+            "category" : [
+                10
+            ],
+            "link" : "https://jsfiddle.net/",
+            "desc" : "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+            "tags" :[
+                "learning",
+                "editor",
+                "self-study",
+                "frontend"
+            ]
+
+        },
+        {
+            "name" : "",
+            "title": "",
+            "category" : [
+                10
+            ],
+            "link" : "",
+            "image": "",
+            "desc" : "",
+            "tags" :[
+                
+            ]
+
         }
     ]
+
 }
