@@ -9,6 +9,7 @@
             "link" : "https://www.w3schools.com/",
             "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
             "desc" : "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
+            "keywords":"HTML, Python, CSS, SQL, JavaScript, How to, PHP, Java, C++, jQuery, Bootstrap, C#, Colors, W3.CSS, XML, MySQL, Icons, NodeJS, React, Graphics, Angular, R, AI, Git, Data Science, Code Game, Tutorials, Programming, Web Development, Training, Learning, Quiz, Courses, Lessons, References, Examples, Source code, Demos, Tips",
             "tags" : [
                 "beginners",
                 "tutorial",
@@ -255,6 +256,7 @@
             "link" : "https://codepen.io/",
             "image": "https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png",
             "desc" : "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.",
+            "keywords" : "javascript, css, editor, code, community, social, frontend, developer, designer, deploy, test, demo, spa, single, page, application, web, html, modern, ide, browser, pen, codepen",
             "tags" :[
                 "learning",
                 "editor",
@@ -272,6 +274,7 @@
             ],
             "link" : "https://codesandbox.io/",
             "desc" : "Create, share, and get feedback with collaborative sandboxes for rapid web development.",
+            "keywords": "react, codesandbox, editor, vue, angular, ide, code, javascript, playground, sharing, spa, single, page, application, web, application, frontend, front, end",
             "tags" :[
                 "learning",
                 "editor",
@@ -290,6 +293,7 @@
             ],
             "link" : "https://jsfiddle.net/",
             "desc" : "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+            "keywords" : "online javascript editor, testing javascript online, online ide, online code editor, html, css, coffeescript, scss online editor",
             "tags" :[
                 "learning",
                 "editor",
@@ -299,19 +303,1889 @@
 
         },
         {
+            "name" : "Canva",
+            "title": "Collaborate & Create Amazing Graphic Design for Free",
+            "category" : [
+                15
+            ],
+            "link" : "https://www.canva.com/",
+            "image": "https://static.canva.com/static/images/fb_cover-1.jpg",
+            "desc" : "Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.",
+            "tags" :[
+                "design",
+                "graphic design",
+                "logo"
+            ]
+
+        },
+        {
+            "name" : "Get Waves",
+            "title": "Get Waves – Create SVG waves for your next design",
+            "category" : [
+                15
+            ],
+            "link" : "https://getwaves.io/",
+            "image": "https://www.getwaves.io/static/getwaves-cover-ac8c651e2f1863b1e8df743f946fdf10.jpg",
+            "desc" : "A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!",
+            "tags" :[
+                "design",
+                "graphic design",
+                "CSS",
+                "background",
+                "SVG",
+                "generator"
+            ]
+
+        },
+        {
+            "name" : "Animate.css",
+            "title": "Animate.css | A cross-browser library of CSS animations.",
+            "category" : [
+                15
+            ],
+            "link" : "https://animate.style/",
+            "image": "https://animate.style/img/animatecss-opengraph.jpg",
+            "desc" : "Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+            "tags" :[
+                "CSS",
+                "animation",
+                "motion",
+                "design",
+                "CSS library",
+                "generator"
+            ]
+
+        },
+        {
+            "name" : "Imagehover.css",
+            "title": "Imagehover.css - A Pure CSS Image Hover Library",
+            "category" : [
+                15
+            ],
+            "link" : "https://www.imagehover.io/",
+            "image": "http://www.imagehover.io/imagehover-og.jpg",
+            "desc" : "A Pure CSS Image Hover Library",
+            "keywords" : "CSS, animation, imagehover, image, hover, library, HTML, howto, usage",
+            "tags" :[
+                "CSS",
+                "CSS library",
+                "animation"
+            ]
+
+        },
+        {
+            "name" : "CSS Loaders",
+            "title": "Single Element CSS Spinners",
+            "category" : [
+                15
+            ],
+            "link" : "https://projects.lukehaas.me/css-loaders/",
+            "image": "https://projects.lukehaas.me/css-loaders/images/css-loaders-screenshot.jpg",
+            "desc" : "A collection of loading spinners animated with CSS. Each spinner is created from a single div with animation, styling and pseudo-elements applied via CSS.",
+            "keywords" : "loading, spinners, indicator, css, single element, css3, luke haas, github, html5",
+            "tags" :[
+                "CSS",
+                "animation",
+                "design",
+                "generator"
+            ]
+
+        },
+        {
+            "name" : "SpinKit",
+            "title": "SpinKit | Simple CSS Spinners",
+            "category" : [
+                15
+            ],
+            "link" : "https://tobiasahlin.com/spinkit/",
+            "image": "https://tobiasahlin.com/static/-social/og_spinkit.jpg",
+            "desc" : "Simple CSS Spinners",
+            "keywords" : "spinkit, spinners, loading, indicator, flat, css, simple, css3, github, html5, tobias ahlin, github, spotify, hyper island",
+            "tags" :[
+                "CSS",
+                "animation",
+                "design",
+                "generator"
+            ]
+
+        },
+        {
+            "name" : "loading.io",
+            "title": "loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator",
+            "category" : [
+                15
+            ],
+            "link" : "https://loading.io/",
+            "image": "https://loading.io/assets/img/thumbnail.jpg",
+            "desc" : "Build Your Ajax Loading Icons, Animated Text and More with SVG / CSS / GIF / PNG !",
+            "tags" :[
+                "CSS",
+                "animation",
+                "design",
+                "generator"
+            ]
+
+        },
+        {
+            "name" : "Box-Shadow Gen",
+            "title": "Box Shadow CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥",
+            "category" : [
+                15
+            ],
+            "link" : "https://html-css-js.com/css/generator/box-shadow/",
+            "image": "https://html-css-js.com/css/generator/box-shadow/style-box-shadow-css-online.jpg",
+            "desc" : "Set the properties of your box shadow to get the CSS style. Use the sliders and the color picker to set the values and watch the live preview",
+            "keywords" : "box,shadow,css",
+            "tags" :[
+                "CSS",
+                "generator",
+                "design"
+            ]
+
+        },
+        {
+            "name" : "Text-Shadow Gen",
+            "title": "Text Shadow CSS Generator Online",
+            "category" : [
+                15
+            ],
+            "link" : "https://html-css-js.com/css/generator/text-shadow/",
+            "image": "https://html-css-js.com/css/generator/text-shadow/screenshot.jpg",
+            "desc" : "Pick a predefined style from the gallery or generate a text shadow with your preferences. Set up the desired attributes to get the CSS code.",
+            "keywords" : "text,shadow,css",
+            "tags" :[
+                "CSS",
+                "generator",
+                "design",
+                "shadow"
+            ]
+
+        },
+        {
+            "name" : "CSS Grid Generator",
+            "category" : [
+                15
+            ],
+            "link" : "https://cssgrid-generator.netlify.app/",
+            "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/og-cssgrid.jpg",
+            "tags" :[
+                "design",
+                "CSS",
+                "generator",
+                "frontend",
+                "grid"
+            ]
+
+        },
+        {
+            "name" : "Scrollbar",
+            "title": "CSS Scrollbar Generator",
+            "category" : [
+                15
+            ],
+            "link" : "https://w3generator.com/scrollbar",
+            "desc" : "Generate Scrollbar CSS code",
+            "tags" :[
+                "CSS",
+                "generator",
+                "design",
+                "scroll"
+
+            ]
+
+        },
+        {
+            "name" : "Webkit Scrollbar",
+            "title": "Webkit Scrollbar Generator",
+            "category" : [
+                15
+            ],
+            "link" : "http://webkit-scroll-gen.sourceforge.net/",
+            "tags" :[
+                "CSS",
+                "generator",
+                "design",
+                "scroll"
+            ]
+
+        },
+        {
+            "name" : "DataTables",
+            "title": "DataTables | Table plug-in for jQuery",
+            "category" : [
+                15
+            ],
+            "link" : "https://datatables.net/",
+            "tags" :[
+                "table",
+                "jQuery",
+                "design",
+                "javascript",
+                "plugin"
+            ]
+
+        },
+        {
+            "name" : "Lorem Ipsum",
+            "title": "Lorem Ipsum – Generator, Origins and Meaning",
+            "category" : [
+                15
+            ],
+            "link" : "https://loremipsum.io/",
+            "image": "https://loremipsum.io/assets/images/lorem-ipsum-generator-custom-placeholder-text.jpg",
+            "desc" : "Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.",
+            "tags" :[
+                "generator",
+                "design",
+                "text",
+                "dummy",
+                "lorem"
+            ]
+
+        },
+        {
+            "name" : "Patternico",
+            "title": "Seamless Pattern Maker - Create Unique Backgrounds For Free",
+            "category" : [
+                15
+            ],
+            "link" : "https://patternico.com/",
+            "desc" : "create your own free seamless patterns and backgrounds online fast and easy. Try our pattern generator - it is totally free!",
+            "keywords": "seamless icons, seamless patterns, pattern maker, pattern creator, pattern generator, seamless backgrounds, icon patterns, seamless icon pattern geenrator, pattern generator, icon patterns",
+            "tags" :[
+                "pattern",
+                "generator",
+                "background",
+                "design"
+            ]
+
+        },
+        {
+            "name" : "PatternPad",
+            "title": "PatternPad - Create beautiful patterns for presentations, social media or branding.",
+            "category" : [
+                15
+            ],
+            "link" : "https://patternpad.com/",
+            "image": "https://patternpad.com/images/patternpad-banner.png",
+            "desc" : "PatternPad offers unlimited unique pattern designs that fit your style. Ideal for branding, presentations, social media posts or customising products.",
+            "keywords" : "pattern,design,photoshop,figma,sketch,ux,creation,graphic,geometrical,generator,software",
+            "tags" :[
+                "design",
+                "graphic design",
+                "background",
+                "pattern",
+                "UI"
+            ]
+
+        },
+        {
+            "name" : "Dimensions",
+            "title": "Dimensions | Database of Dimensioned Drawings",
+            "category" : [
+                15
+            ],
+            "link" : "https://www.dimensions.com/",
+            "image": "https://dimensionsguide.s3.amazonaws.com/00-INFO/Dimensions-Guide-SEO-Metatag.jpg",
+            "desc" : "A comprehensive reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces that make up our world.",
+            "tags" :[
+                "drawings",
+                "graphic design"
+            ]
+
+        },
+        {
+            "name" : "SVG 2 JSX",
+            "title": "Editor - Convert SVG to valid JSX",
+            "category" : [
+                15
+            ],
+            "link" : "https://svg2jsx.com/",
+            "desc" : "Convert SVG to valid JSX",
+            "keywords" : "svg, jsx, svg2jsx",
+            "tags" :[
+                "SVG",
+                "JSX",
+                "generator",
+                "editor"
+            ]
+
+        },
+        {
+            "name" : "Clippy",
+            "title": "Clippy — CSS clip-path maker",
+            "category" : [
+                15
+            ],
+            "link" : "https://bennettfeely.com/clippy/",
+            "tags" :[
+                "design",
+                "UI",
+                "CSS",
+                "generator"
+            ]
+
+        },
+        {
+            "name" : "Type Scale",
+            "title": "Type Scale - A Visual Calculator",
+            "category" : [
+                15
+            ],
+            "link" : "https://type-scale.com/",
+            "desc" : "Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.",
+            "keywords" : "font, text, type, size, typography, typographic, typeface, rem, rems, em, ems, px, scale, calculate, calculator, webfont, edit, update, modular scale, preview",
+            "tags" :[
+                "design",
+                "typography",
+                "UI",
+                "calculator"
+            ]
+        },
+        {
+            "name" : "Typographic Scale Calculator",
+            "title": "Typographic Scale Calculator - Pick the right font sizes",
+            "category" : [
+                15
+            ],
+            "link" : "https://www.layoutgridcalculator.com/typographic-scale/",
+            "image": "https://www.layoutgridcalculator.com/wp-content/uploads/2019/03/modular_scale_Formula2.png",
+            "desc" : "Choose the right font size from a harmonious type scale inspired by the way music works. For a beautiful and balanced typographic composition.",
+            "tags" :[
+                "design",
+                "typography",
+                "UI",
+                "calculator"
+            ]
+        },
+        {
+            "name" : "CSS Scan",
+            "title": "93 Beautiful CSS box-shadow examples - CSS Scan",
+            "category" : [
+                15
+            ],
+            "link" : "https://getcssscan.com/css-box-shadow-examples",
+            "image": "https://getcssscan.com/css-box-shadow-examples/og-image.jpg",
+            "desc" : "\uD83C\uDFA8 Curated collection of 93 free beautiful CSS box-shadow, ready-to-use for your next projects. Click to copy.",
+            "tags" :[
+                "design",
+                "CSS",
+                "frontend",
+                "UI"
+            ]
+        },
+        {
+            "name" : "particles.js",
+            "title": "particles.js - A lightweight JavaScript library for creating particles",
+            "category" : [
+                15
+            ],
+            "link" : "https://vincentgarreau.com/particles.js/",
+            "image": "https://vincentgarreau.com/particles.js/assets/img/particlesjs-og.png",
+            "desc" : "particles.js is a lightweight JavaScript library for creating particles.",
+            "tags" :[
+                "design",
+                "UI",
+                "JS library",
+                "frontend",
+                "javascript",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Inixia",
+            "title": "Inixia | Create Website Backgrounds In Seconds",
+            "category" : [
+                15
+            ],
+            "link" : "https://websitebackgroundmaker.com/",
+            "image": "https://websitebackgroundmaker.com/img/og-image.jpg",
+            "desc" : "Create backgrounds for your website in seconds, with over 40 templates available. Choose from a selection of gradient, animated, and wave backgrounds. Get started today!",
+            "tags" :[
+                "design",
+                "background",
+                "javascript",
+                "UI",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Bacon Ipsum",
+            "title": "Bacon Ipsum - A Meatier Lorem Ipsum Generator",
+            "category" : [
+                15
+            ],
+            "link" : "https://baconipsum.com/",
+            "image": "https://baconipsum.com/wp-content/uploads/2015/01/bacon-ipsum-square-200-200.jpg",
+            "desc" : "Does your lorem ipsum text long for something a little meatier? Give our generator a try... it&#039;s tasty!",
+            "tags" :[
+                "text",
+                "generator",
+                "lorem",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Pirate Ipsum",
+            "category" : [
+                15
+            ],
+            "link" : "https://pirateipsum.me/",
+            "tags" :[
+                "text",
+                "generator",
+                "lorem",
+                "UI"
+            ]
+        },
+        {
+            "name" : "uiGradients",
+            "title": "uiGradients - Beautiful colored gradients",
+            "category" : [
+                20
+            ],
+            "link" : "https://uigradients.com/",
+            "image": "http://uigradients.com/static/images/uigradients.jpg",
+            "desc" : "uiGradients is a handpicked collection of beautiful color gradients for designers and developers.",
+            "tags" :[
+                "design",
+                "UI",
+                "color",
+                "gradient",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "HTML Color Codes",
+            "category" : [
+                20
+            ],
+            "link" : "https://htmlcolorcodes.com/",
+            "image": "https://htmlcolorcodes.com/assets/images/html-color-codes-picker-charts-names-tutorials-resources.jpg",
+            "desc" : "Easily find HTML color codes for your website using our color picker, color chart and HTML color names with Hex color codes, RGB and HSL values.",
+            "tags" :[
+                "color",
+                "UI",
+                "HTML",
+                "picker"
+            ]
+        },
+        {
+            "name" : "Coolors",
+            "title": "Coolors - The super fast color schemes generator!",
+            "category" : [
+                20
+            ],
+            "link" : "https://coolors.co/",
+            "image": "https://coolors.co/assets/img/og_image.png",
+            "desc" : "Generate or browse beautiful color combinations for your designs.",
+            "keywords" : "color scheme, scheme color, color schemes, color theme, color palette, color themes, color palettes, color combinations, color, colors, palettes, hex color wheel, pastel color palette, color wheel, color combination, color pallete, color names, web color schemes, color wheel generator, extract color palette from image, random color palette generator, color schemes generator, ui color palette generator, pretty colors, vintage color, color palette from image",
+            "tags" :[
+                "design",
+                "color",
+                "palette",
+                "generator",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Colorsinspo",
+            "title": "Colorsinspo - All in one resource for finding everything about colors  | Colorsinspo",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorsinspo.com/",
+            "image": "https://colorsinspo.com/static/img/twitter/colorsinspo-twitter-sumary-image.png",
+            "desc" : "Colorsinspo is all in one resource to find everything about colors with extreme ease. Also, you will get Freebies, Inspirations, Color Tools, Gradients, and thousands of trendy hand-picked color palettes.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Gradient Magic",
+            "title": "Gradient Magic - Fantastic and Unique CSS Gradients",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.gradientmagic.com/",
+            "image": "https://www.gradientmagic.com/img/GM_Social.png",
+            "desc" : "A Free Gallery of Fantastic and Unique CSS Gradients.",
+            "tags" :[
+                "color",
+                "gradient",
+                "UI",
+                "design",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "Adobe Color Wheel",
+            "category" : [
+                20
+            ],
+            "link" : "https://color.adobe.com/create/color-wheel",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Color Tool",
+            "title": "Color Tool - Material Design",
+            "category" : [
+                20
+            ],
+            "link" : "https://material.io/resources/color/",
+            "image": "https://material.io/tools/color/assets/images/colortool-share.png",
+            "desc" : "Create and share color palettes for your UI, and measure the accessibility of any color combination.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Web Gradients",
+            "title": "Fresh Background Gradients | WebGradients.com 💎",
+            "category" : [
+                20
+            ],
+            "link" : "https://webgradients.com/",
+            "image": "https://webgradients.com/Open_graph_image_1200x630.jpg",
+            "desc" : "Come to WebGradients.com for 180 beautiful linear gradients in CSS3, Photoshop and Sketch. This collection is curated by top designers and totally free.",
+            "keywords" : "webdesign, ui, ux, ui kit, gradients, backdrop, sketch, photoshop, freebie, free, web, webdev, css3, css, colors, animation, psd, palette, colour, background",
+            "tags" :[
+                "color",
+                "background",
+                "UI",
+                "design",
+                "gradient",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "ColorSpark",
+            "title": "ColorSpark | Discover Unique Colors & Gradients.",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorspark.app/",
+            "image": "https://colorspark.app/assets/img/share.jpg",
+            "desc" : "A simple and effective tool that generates random colors and gradients to help designers put together unique and striking color palettes.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "CSS",
+                "generator",
+                "gradient"
+            ]
+        },
+        {
+            "name" : "ColorBrewer",
+            "title": "ColorBrewer: Color Advice for Maps",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorbrewer2.org/",
+            "tags" :[
+                "color",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Colormind",
+            "title": "Colormind - the AI powered color palette generator",
+            "category" : [
+                20
+            ],
+            "link" : "http://colormind.io/",
+            "desc" : "Generate color combinations in one click. Colormind creates cohesive color schemes using a deep neural net.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Color Curves",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorcurves.app/",
+            "image": "https://colorcurves.app/color-curves-preview.png",
+            "desc" : "Unique color palettes for data visualization and generative art.",
+            "tags" :[
+                "color",
+                "picker",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Colors &amp; Fonts",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.colorsandfonts.com/",
+            "image": "https://colorsandfonts.com/images/opengraph/opengraph.png",
+            "desc" : "Color and typography for Web Developers and Digital Designers.",
+            "keywords" : "Html color, Html colour, Html colors, Html colours, Color, Colour,Material Color Picker, Color Names,  Gradient Colors, Color Values, Hex Color,  Flat Colors, Metro Colors, Fluent Colors, Flat UI Colors, Material Design Colors, Web Safe Colors, Color Theory, Color Palettes,  Common Colors,  Random Color, Random Colors, Random Gradient, Color Codes",
+            "tags" :[
+                "color",
+                "fonts",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Palette List",
+            "title": "Palette List - Color Palette Generator - 10,000+ Palettes",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.palettelist.com/",
+            "image": "http://www.palettelist.com/socials.png",
+            "desc" : "Palette List is a dynamic palette generator",
+            "keywords" : "palette, colors, designer tools, developer tools, hex, rgb",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Material Palette",
+            "title": "Material Design Color Palette Generator - Material Palette",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.materialpalette.com/",
+            "image": "http://www.materialpalette.com/assets/facebook-e97d3446eefa01933d14bf4aa46907c0d3fcd4c2c17396b4a4731414992104b3.png",
+            "desc" : "Choose your favorite colors and get your Material Design palette generated and downloadable.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "material",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Flat UI Colors",
+            "title": "Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨",
+            "category" : [
+                20
+            ],
+            "link" : "https://flatuicolors.com/",
+            "image": "https://flatuicolors.com/static/facebook-share.png",
+            "desc" : "280 handpicked colors ready for COPY & PASTE",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "ColorsWall",
+            "title": "ColorsWall - colors palettes, palettes collections, colours schemes",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorswall.com/",
+            "image": "https://colorswall.com/images/og_image.jpg",
+            "desc" : "ColorsWall - place to store your color palettes. Brand color codes. Generate Random colors palette. Design colors combinations. Tool to choose colors for Your website.",
+            "keywords" : "graphic design, web design, color scheme, color theme, color themes, color palettes, color combinations, colors, palettes, design, web colors",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design",
+                "themes"
+            ]
+        },
+        {
+            "name" : "Happy Hues",
+            "title": "Happy Hues - Curated colors in context.",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.happyhues.co/",
+            "image": "https://assets.website-files.com/5dd40aa8049df8748c72d0ee/5ddd471cbe5e6601554a2a4d_happy-hues.jpeg",
+            "desc" : "See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Adobe Trends",
+            "category" : [
+                20
+            ],
+            "link" : "https://color.adobe.com/trends",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Color Hunt",
+            "title": "Color Palettes for Designers and Artists - Color Hunt",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorhunt.co/",
+            "image": "https://colorhunt.co/img/color-hunt-og.png",
+            "desc" : "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Gradient Hunt",
+            "title": "Gradient Hunt - Beautiful Color Gradients",
+            "category" : [
+                20
+            ],
+            "link" : "https://gradienthunt.com/",
+            "image": "https://gradienthunt.com/img/socialimage.png",
+            "desc" : "Thousands of trendy color gradients in a curated collection that is updated daily. Get a fresh color gradient for your next design project and save all the gradients you like.",
+            "tags" :[
+                "color",
+                "gradient",
+                "UI",
+                "design",
+                "graphic design",
+                "photoshop"
+            ]
+        },
+        {
+            "name" : "ColorBox",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorbox.io/",
+            "image": "https://colorbox.io/image.png",
+            "desc" : "Create amazing color sets superfast.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "CSS Gradient",
+            "title": "CSS Gradient — Generator, Maker, and Background",
+            "category" : [
+                20
+            ],
+            "link" : "https://cssgradient.io/",
+            "image": "https://cssgradient.io/images/css-gradient-share-23a5b71f.png",
+            "desc" : "As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "gradient",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "gradienta",
+            "title": "Multicolor Gradients Pure CSS Code, JPG Download, Open Source!",
+            "category" : [
+                20
+            ],
+            "link" : "https://gradienta.io/",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "gradient"
+            ]
+        },
+        {
+            "name" : "Color Palette Generator",
+            "category" : [
+                20
+            ],
+            "link" : "https://palettegenerator.colorion.co/",
+            "image": "https://palettegenerator.colorion.co/shared.png",
+            "desc" : "Generate new color palette generator with every press of the spacebar",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Material Colorion",
+            "title": "Curated Material Design Color Palettes",
+            "category" : [
+                20
+            ],
+            "link" : "https://material.colorion.co/",
+            "image": "http://www.colorion.co/assets/img/material.colorion.home.png",
+            "desc" : "Curated Material Design Color Palettes",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "material",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Grabient",
+            "title": "Beautiful and simple UI for generating web gradients.",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.grabient.com/",
+            "image": "https://www.grabient.com/grabber.png",
+            "desc" : "Beautiful and simple UI for generating web gradients.",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "gradient"
+            ]
+        },
+        {
+            "name" : "ShadeSwash",
+            "title": "ShadeSwash - Shade Generator for Web Developers and Designers",
+            "category" : [
+                20
+            ],
+            "link" : "https://shadeswash.netlify.app/",
+            "desc" : "Never waste time trying to find the right shade of a color again. With ShadeSwash, every shade you'll ever need is just a click away.",
+            "tags" :[
+                "color",
+                "shade",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "BrandColors",
+            "title": "BrandColors - official brand color hex codes",
+            "category" : [
+                20
+            ],
+            "link" : "http://brandcolors.net/",
+            "desc" : "The biggest collection of official brand color codes around. Includes hex colors codes for 500+ brands including Facebook, Twitter, Instagram, and many more.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Brand Palettes",
+            "title": "Brand Palettes - Logo Color Codes and Palettes",
+            "category" : [
+                20
+            ],
+            "link" : "https://brandpalettes.com/",
+            "desc" : "Brand palette colors for major brands including fast food brands, beer brands and technology brands. Color codes are estimates of HEX, RGB and CMYK Values",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "MATERIAL DESIGN PALETTE",
+            "title": "Material Design Theme & Palette Color Generator",
+            "category" : [
+                20
+            ],
+            "link" : "http://mcg.mbitson.com/#!?mcgpalette0=%233f51b5",
+            "desc" : "Generate your own Material Design Color Palette with full control over the colors! Export to AngularJS, Materialize, CSS, Polymer, and more!",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "material",
+                "graphic design",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "Colorate",
+            "title": "colorate | Color scheme tools for designers and developers.",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorate.azurewebsites.net/",
+            "image": "https://colorate.azurewebsites.net/Images/colorate_1200x420.png",
+            "desc" : "colorate is a color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Color Picker Tool",
+            "title": "Color Picker Tool | 0to255",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.0to255.com/",
+            "desc" : "Choose colors for your logo, website, business, room, or print design project. Adjust colors quickly and easily.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "picker",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Color Blender",
+            "category" : [
+                20
+            ],
+            "link" : "https://meyerweb.com/eric/tools/color-blend",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Gradient Buttons",
+            "title": "Buttons with CSS gradients - Gradient Buttons",
+            "category" : [
+                20
+            ],
+            "link" : "https://gradientbuttons.colorion.co/",
+            "desc" : "Gradient buttons with Css",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "gradient"
+            ]
+        },
+        {
+            "name" : "Khroma",
+            "title": "Khroma - The AI color tool for designers",
+            "category" : [
+                20
+            ],
+            "link" : "http://khroma.co/",
+            "image": "http://khroma.co/assets/images/social.png",
+            "desc" : "Khroma is the fastest way to discover, search, and save color combos and palettes you'll love.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Who Can Use",
+            "category" : [
+                20
+            ],
+            "link" : "https://whocanuse.com/",
+            "image": "https://whocanuse.com/3cb0c517afe6a9a74b3853fccd8e881a.png",
+            "desc" : "Find out who can use your color combination. Whocanuse is a tool that brings attention and understanding to how color contrast can affect different people that have visual impairments.",
+            "keywords" : "accessibility, color, contrast, tool",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "accessibility"
+            ]
+        },
+        {
+            "name" : "Colorable",
+            "category" : [
+                20
+            ],
+            "link" : "https://colorable.jxnblk.com/",
+            "tags" :[
+                "color",
+                "typography",
+                "UI",
+                "design",
+                "graphic design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Color Hex Picker",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.colorhexpicker.com/",
+            "desc" : "Get the hex code and the rgb value along with colour name of any color from any image with our hex color picker.",
+            "tags" :[
+                "color",
+                "picker",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "saruwakakun",
+            "title": "40 Stunning Color Schemes for Website & App Designs",
+            "category" : [
+                20
+            ],
+            "link" : "https://saruwakakun.com/en/color-ideas",
+            "image": "https://saruwakakun.com/wp-content/uploads/2017/04/69269-OCNX42-4ddd44-01.png",
+            "desc" : "Here are 40 beautiful color combinations with Hex Color Code. You can check the usage examples in Mobile App UI.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Paletton",
+            "title": "Paletton - The Color Scheme Designer",
+            "category" : [
+                20
+            ],
+            "link" : "https://paletton.com/",
+            "desc" : "In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.",
+            "keywords" : "color, scheme, wheel, color wheel, theory, color theory, colorwheel, design, designer, palette, colorize, colorset, RYB, RGB, web, colors, webcolors, safecolors, blind, blindness, simulation, protanopy, protanopia, deuteranopy, deuteranopia, tritanopy, tritanopia, daltonism, live, preview, pixy, barvy, barevn�, m�ch�tko",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator",
+                "picker"
+            ]
+        },
+        {
+            "name" : "ColorZilla",
+            "title": "ColorZilla - Eyedropper, Color Picker, Gradient Generator and more",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.colorzilla.com/",
+            "desc" : "Advanced Eyedropper, Color Picker, Gradient Generator and more",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "generator",
+                "picker"
+            ]
+        },
+        {
+            "name" : "Image Color Picker",
+            "title": "Image Color Picker - HEX, RGB, HSL",
+            "category" : [
+                20
+            ],
+            "link" : "https://image-color.com/",
+            "image": "https://image-color.com/img/example.jpg",
+            "desc" : "Find your color using our image color picker. Click on the image to get color in HEX, RGB, HSL and CMYK format. You can also generate a color palette from image.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design",
+                "picker",
+                "generator"
+            ]
+        },
+        {
+            "name" : "CombineCOLORS",
+            "title": "Mix Paints Online - CombineCOLORS",
+            "category" : [
+                20
+            ],
+            "link" : "https://combinecolors.com/",
+            "image": "https://combinecolors.com/img/paint-mixer.jpg",
+            "desc" : "Paint mixer is a free online tool that helps you to mix colors, so you don't waste your paint. It's a great tool for artists to improve their color mixing skills. Just pick paint colors by clicking on the \"sliders\" icon, click on \"minus\"/\"plus\" buttons to set proportions, and you will see the mixed color.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "HTML CSS Color",
+            "title": "HTML CSS Color Online color library: development, web-design, photoshop, art - HTML CSS Color",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.htmlcsscolor.com/",
+            "desc" : "16777216 Colors! Online color library and color tools for developers, coders, web-designers; For photoshop and art. Any color spaces: HEX, RGB, CMYK, HSL, HSV etc.",
+            "keywords" : "color, colour, color code, hex color, rgb color, color chart, color wheel, design, web design",
+            "tags" :[
+                "color",
+                "picker",
+                "UI",
+                "design",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "name" : "Hex Color Codes",
+            "title": "Color Hex Color Codes",
+            "category" : [
+                20
+            ],
+            "link" : "https://hexcolorcodes.org/",
+            "image": "https://hexcolorcodes.org/assets/images/logo.png",
+            "desc" : "Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. Let's go!",
+            "tags" :[
+                "color",
+                "HTML",
+                "CSS",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "CoolHue",
+            "title": "Gradient Colors Collection Palette - CoolHue 2.0",
+            "category" : [
+                20
+            ],
+            "link" : "https://webkul.github.io/coolhue/",
+            "image": "https://webkul.github.io/coolhue/images/coolhue-cover.png",
+            "desc" : "Get coolest handpicked gradient colors collection palette for your next project, alternatively copy css or download as image too.",
+            "tags" :[
+                "color",
+                "gradient",
+                "UI",
+                "design",
+                "graphic design",
+                "palette",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "colors.lol",
+            "title": "colors.lol - Overly descriptive color palettes",
+            "category" : [
+                20
+            ],
+            "link" : "https://colors.lol/",
+            "image": "https://www.colors.lol/assets/images/colors.jpg",
+            "desc" : "A fun way to discover interesting color combinations.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Dopely Colors",
+            "title": "Dopely Colors - A Free Solution to all your Color Problems",
+            "category" : [
+                20
+            ],
+            "link" : "https://colors.dopely.top/",
+            "image": "https://colors.dopely.top/static/home-preview.7562df74.png",
+            "desc" : "Free Solution to all your Color Problems",
+            "keywords" : "color scheme, scheme color, color schemes, color theme, color palette, color themes, color palettes, color combinations, color, colors, palettes, hex color wheel, pastel color palette, color wheel, color combination, color pallete, color names, web color schemes, color wheel generator, extract color palette from image, random color palette generator, color schemes generator, ui color palette generator, pretty colors, vintage color, color palette from image",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "UI Color Picker",
+            "title": "UI Color Picker | LearnCodeOnline",
+            "category" : [
+                20
+            ],
+            "link" : "https://uicolorpicker.com/",
+            "desc" : "Choosing a perfect color for your next Android, iOS or web application. Selecting that perfect shade of color can be tricky for a beginner. I would like to present our solution for this problem, introducing https://UIColorPicker.com A solution to pick a color for beginners.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "picker",
+                "generator"
+            ]
+        },
+        {
+            "name" : "color-hex",
+            "title": "Color Hex Color Codes",
+            "category" : [
+                20
+            ],
+            "link" : "https://www.color-hex.com/",
+            "desc" : "Color hex is a easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.",
+            "tags" :[
+                "color",
+                "UI",
+                "design",
+                "picker",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "name" : "FarbVélo",
+            "title": "FarbVélo —— Random Color Cycler",
+            "category" : [
+                20
+            ],
+            "link" : "https://farbvelo.elastiq.ch/",
+            "image": "https://farbvelo.elastiq.ch/farbvelo.png",
+            "desc" : "Generative color harmonies. The random color expolorer",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Palettab",
+            "category" : [
+                20
+            ],
+            "link" : "https://palettab.com/",
+            "image": "http://palettab.com/img/share.jpg",
+            "desc" : "Palettab, a chrome extension to bring something new, to the new tab button.",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator",
+                "typography"
+            ]
+        },
+        {
+            "name" : "ColorSpace",
+            "title": "ColorSpace - Color Palettes Generator and Color Gradient Tool",
+            "category" : [
+                20
+            ],
+            "link" : "https://mycolor.space/",
+            "desc" : "We help you to find the perfect matching color scheme for your next project! Just enter a color and generate a lot of color palettes, color schemes and much more!",
+            "tags" :[
+                "color",
+                "palette",
+                "UI",
+                "design",
+                "generator",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Name that Color",
+            "title": "Name that Color - Chirag Mehta : chir.ag",
+            "category" : [
+                20
+            ],
+            "link" : "https://chir.ag/projects/name-that-color/#2564D0",
+            "desc" : "Chirag Mehta - Personal Web Log - 'blog - Chime Softwares - Indian Blogger live from Saint Petersburg, Florida, St. Pete, FL",
+            "keywords" : "chirag, mehta, web log, blog, comic, photo, galllery, art, digital, work, calcutta, india, indian blogger, rutgers, university, ru, saint petersburg, florida, st. pete, fl, chime, softwares",
+            "tags" :[
+                "color",
+                "design",
+                "research",
+                "generator",
+                "guide"
+            ]
+        },
+        {
+            "name" : "Google Fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://fonts.google.com/",
+            "image": "http://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png",
+            "desc" : "Making the web more beautiful, fast, and open through great typography",
+            "tags" :[
+                "font",
+                "typography",
+                "google",
+                "CSS",
+                "frontend",
+                "cdn"
+            ]
+        },
+        {
+            "name" : "Dafont",
+            "title": "Dafont Free - Download Fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.dafontfree.io/",
+            "desc" : "Download 10,900+ best free high quality fonts from sans serif, serif, script, handwritten, calligraphy, display &amp; more. For Personal &amp; Commercial Use!",
+            "tags" :[
+                "font",
+                "typography",
+                "free",
+                "download"
+            ]
+        },
+        {
+            "name" : "1001 Fonts",
+            "title": "1001 Fonts ❤ Free Fonts Baby!",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.1001fonts.com/",
+            "image": "https://st.1001fonts.net/img/avatar161.png",
+            "desc" : "31260 free fonts in 17615 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux",
+            "tags" :[
+                "font",
+                "typography",
+                "free"
+            ]
+        },
+        {
+            "name" : "1001 Free Fonts",
+            "title": "1001 Free Fonts | Download 60000 Fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.1001freefonts.com/",
+            "image": "https://font-1001freefonts.netdna-ssl.com/themes/blue/images/main_logo.png",
+            "desc" : "Download 60000 free fonts for Windows and Mac. Fonts are organized by categories such as calligraphy, handwriting, script, sans serif and more.",
+            "tags" :[
+                "font",
+                "typography",
+                "free"
+            ]
+        },
+        {
+            "name" : "fontpair",
+            "title": "Free typography for your next design project (Google Fonts, Fontshare, Fontesk, Font Squirrel, and more)",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.fontpair.co/",
+            "image": "https://uploads-ssl.webflow.com/5df11841b7e5a489e7c67859/618dcdc9958c2131ec0011b6_screely-1636683123514.png",
+            "desc" : "Free typography for your next design project (Google Fonts, Fontshare, Fontesk, Font Squirrel, and more)",
+            "tags" :[
+                "font",
+                "typography",
+                "UI",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Myanmar Unicode Fonts",
+            "title": "Myanmar Unicode Fonts Preview",
+            "category" : [
+                25
+            ],
+            "link" : "https://saturngod.github.io/myanmar-unicode-fonts/",
+            "tags" :[
+                "font",
+                "typography",
+                "myanmar",
+                "free",
+                "unicode"
+            ]
+        },
+        {
+            "name" : "Font Squirrel",
+            "title": "Font Squirrel | Free Fonts! Legit Free &amp; Quality",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.fontsquirrel.com/",
+            "image": "https://www.fontsquirrel.com/presentation/theme_site/images/social_media_default.jpg",
+            "desc" : "Font Squirrel scours the internet for high quality, legitimately free fonts . Download thousands of completely legal, high quality, free fonts.",
+            "keywords" : "free fonts, handwriting fonts, calligraphy free fonts, designer fonts, serif  fonts, sans serif  fonts, grunge  fonts, script fonts, typewriter fonts",
+            "tags" :[
+                "font",
+                "typography",
+                "free"
+            ]
+        },
+        {
+            "name" : "Typ.io",
+            "title": "Typ.io: Fonts that go together",
+            "category" : [
+                25
+            ],
+            "link" : "https://typ.io/",
+            "image": "https://typ.io/icons/typio-card.png",
+            "desc" : "Here at Typ.io, we&#39;re revealing designers&#39; decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they&#39;re using and how they&#39;re using them. We want to know what font goes with what.",
+            "keywords" : "design, favourites, fonts, gallery, inspiration, typography, web fonts, web typography",
+            "tags" :[
+                "font",
+                "typography",
+                "design"
+            ]
+        },
+        {
+            "name" : "Use & Modify",
+            "category" : [
+                25
+            ],
+            "link" : "https://usemodify.com/",
+            "tags" :[
+                "font",
+                "typography"
+            ]
+        },
+        {
+            "name" : "Fontfabric™",
+            "title": "Fontfabric™ — We design fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.fontfabric.com/",
+            "desc" : "A digital type foundry crafting retail fonts and custom typography for various brands. Sharing a passion for premium typefaces, calligraphy and lettering.",
+            "tags" :[
+                "font",
+                "typography"
+            ]
+        },
+        {
+            "name" : "Tiff",
+            "title": "Tiff - a visual typeface diff tool.",
+            "category" : [
+                25
+            ],
+            "link" : "https://tiff.herokuapp.com/",
+            "tags" :[
+                "font",
+                "typography",
+                "tools",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Typekit Practice",
+            "category" : [
+                25
+            ],
+            "link" : "https://practice.typekit.com/",
+            "image": "https://practice.typekit.com/static/152x152.34844d6d39.png",
+            "desc" : "Whether you’re a novice or an expert in any medium, good decisions take practice — and great ones stand on a solid foundation. Typekit Practice is a collection of resources and a place to try things, hone your skills, and stay sharp.",
+            "tags" :[
+                "font",
+                "typography",
+                "knowledge",
+                "learning"
+            ]
+        },
+        {
+            "name" : "Fontjoy",
+            "title": "Fontjoy - Generate font pairings in one click",
+            "category" : [
+                25
+            ],
+            "link" : "https://fontjoy.com/",
+            "desc" : "Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.",
+            "tags" :[
+                "font",
+                "typography",
+                "generator",
+                "deep learning"
+            ]
+        },
+        {
+            "name" : "GRT Calculator",
+            "title": "Golden Ratio Typography (GRT) Calculator",
+            "category" : [
+                25
+            ],
+            "link" : "https://grtcalculator.com/",
+            "image": "https://grtcalculator.com/wp-content/thesis/skins/grt-calculator-skin/screenshot.png",
+            "desc" : "Discover the perfect typography for your website by entering your current font, font size, and content width Optimize for font size, line height, and even characters per line (CPL) Experiment with new fonts and different sizes on any device Apply GRT to your own projects with the free responsive GRT CSS loadout! The GR",
+            "tags" :[
+                "font",
+                "typography",
+                "calculator",
+                "generator",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "FontGet",
+            "title": "Free Fonts - FontGet",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.fontget.com/",
+            "tags" :[
+                "font",
+                "typography",
+                "free",
+                "download"
+            ]
+        },
+        {
+            "name" : "FontSpace",
+            "title": "Free Fonts | 86,000+ Font Downloads | FontSpace",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.fontspace.com/",
+            "image": "https://s3-us-west-1.amazonaws.com/images.fontspace.com/static/fontspace-all-new-1500x1500.jpg",
+            "desc" : "Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.",
+            "tags" :[
+                "font",
+                "typography",
+                "free",
+                "download"
+            ]
+        },
+        {
+            "name" : "abstract fonts",
+            "title": "abstract fonts - download free fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.abstractfonts.com/",
+            "image": "https://www.abstractfonts.com/images/logo.gif",
+            "desc" : "Download more than 10,000 free fonts hassle free, desktop and mobile optimized, around for more than 20 years. Categories, popular, designers, optional web font download and links to similar fonts. Check it out!",
+            "tags" :[
+                "font",
+                "typography",
+                "free",
+                "download"
+            ]
+        },
+        {
+            "name" : "FreeTypography",
+            "title": "FreeTypography - The best free fonts, typefaces and typography",
+            "category" : [
+                25
+            ],
+            "link" : "https://freetypography.com/",
+            "desc" : "FreeTypography.com is a blog about the best free fonts, typefaces and typography for free download.",
+            "tags" :[
+                "font",
+                "typography"
+            ]
+        },
+        {
+            "name" : "Leon Sans",
+            "category" : [
+                25
+            ],
+            "link" : "https://leon-kim.com/",
+            "image": "https://leon-kim.com/img/share.png",
+            "desc" : "Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.",
+            "tags" :[
+                "font",
+                "typography",
+                "creative"
+            ]
+        },
+        {
+            "name" : "Lexend",
+            "title": "Lexend — Change the way the world reads.",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.lexend.com/",
+            "image": "https://www.lexend.com/static/social/lexend-v2.png",
+            "tags" :[
+                "font",
+                "typography",
+                "education",
+                "knowledge",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Apple Fonts",
+            "title": "Fonts - Apple Developer",
+            "category" : [
+                25
+            ],
+            "link" : "https://developer.apple.com/fonts/",
+            "image": "https://developer.apple.com/news/images/og/fonts-og.jpg",
+            "desc" : "Get the details, frameworks, and tools you need to use San Francisco, the system UI font for Apple platforms, in your apps.",
+            "tags" :[
+                "font",
+                "typography",
+                "apple"
+            ]
+        },
+        {
+            "name" : "SFWin",
+            "title": "San Francisco Fonts for Windows 10",
+            "category" : [
+                25
+            ],
+            "link" : "https://github.com/blaisck/sfwin/",
+            "tags" :[
+                "font",
+                "typography",
+                "apple"
+            ]
+        },
+        {
+            "name" : "Font Flipper",
+            "title": "Font Flipper: Find Free Fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://fontflipper.com/upload",
+            "image": "https://firebasestorage.googleapis.com/v0/b/font-flipper.appspot.com/o/metaImg.png?alt=media&token=61a959aa-832c-47fb-a1aa-6ff96abdbf50",
+            "desc" : "Preview 800+ Google Fonts on top of your own designs, without having to download them first.",
+            "tags" :[
+                "font",
+                "typography",
+                "tools",
+                "google"
+            ]
+        },
+        {
+            "name" : "FontsArena",
+            "title": "FontsArena &mdash; Free fonts, free alternatives, done-for-you-research articles. Ads-free open startup.",
+            "category" : [
+                25
+            ],
+            "link" : "https://fontsarena.com/",
+            "desc" : "Free fonts, free alternatives, done-for-you-research articles. Ads-free open startup.",
+            "tags" :[
+                "font",
+                "typography",
+                "free"
+            ]
+        },
+        {
+            "name" : "BE Fonts",
+            "title": "Free Fonts for Designers - Download free fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://befonts.com/",
+            "image": "https://i0.wp.com/befonts.com/wp-content/uploads/2020/08/befonts2020.jpg?fit=236%2C87&#038;ssl=1",
+            "desc" : "Free Font for Designers! High quality design resources for free. And helps introduce first time customers to your products with free fonts downloads and allow them to try before they buy.",
+            "tags" :[
+                "font",
+                "typography",
+                "design",
+                "graphic design",
+                "free"
+            ]
+        },
+        {
+            "name" : "Font Drop",
+            "category" : [
+                25
+            ],
+            "link" : "https://fontdrop.info/",
+            "image": "https://fontdrop.info/assets/img/fb_image.png",
+            "desc" : "Simple and easy way to view the content of font files.",
+            "tags" :[
+                "font",
+                "typography",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Glyphter",
+            "title": "The SVG Font Machine | Glyphter",
+            "category" : [
+                25
+            ],
+            "link" : "https://glyphter.com/",
+            "desc" : "Create icon fonts in seconds! Just drag &amp; drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!",
+            "keywords" : "SVG,font creation, icon,design,glyph,machine,gopher,typography,typeface,font face,icon font,iconic",
+            "tags" :[
+                "font",
+                "typography",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Open Foundry",
+            "category" : [
+                25
+            ],
+            "link" : "https://open-foundry.com/",
+            "image": "http://open-foundry.com/img/of-cover-preview.jpg",
+            "desc" : "A new platform for open-source fonts in a noise-free environment, to highlight their beauty, extend functionality and encourage further exploration.",
+            "tags" :[
+                "font",
+                "typography",
+                "open-source"
+            ]
+        },
+        {
+            "name" : "Glyphter",
+            "title": "The SVG Font Machine | Glyphter",
+            "category" : [
+                25
+            ],
+            "link" : "https://glyphter.com/",
+            "desc" : "Create icon fonts in seconds! Just drag &amp; drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!",
+            "keywords": "SVG,font creation, icon,design,glyph,machine,gopher,typography,typeface,font face,icon font,iconic",
+            "tags" :[
+                "font",
+                "typography",
+                "icon",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "google webfonts helper",
+            "category" : [
+                25
+            ],
+            "link" : "https://google-webfonts-helper.herokuapp.com/fonts",
+            "desc" : "A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets!",
+            "keywords" : "font, host, self-host, font-face, serve, zip, archive, css, woff, woff2, eot, ttf, svg, web fonts, google web fonts, google fonts, instructions, modern browsers, best support, font service",
+            "tags" :[
+                "font",
+                "typography",
+                "CSS",
+                "snippets"
+            ]
+        },
+        {
+            "name" : "Rough Font Awesome",
+            "title": "Rough Font Awesome - when Rough.js meets Font Awesome",
+            "category" : [
+                25
+            ],
+            "link" : "https://djamshed.github.io/rough-awesome-font/dist/",
+            "tags" :[
+                "font",
+                "typography",
+                "icon"
+            ]
+        },
+        {
+            "name" : "FFonts",
+            "title": "100,000+ Free Fonts | Download Now - FFonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.ffonts.net/",
+            "desc" : "Looking to download stylish fonts for free? Discover FFonts.net`s library of over 100,000+ fonts for personal use. ✔",
+            "tags" :[
+                "font",
+                "typography",
+                "free",
+                "download"
+            ]
+        },
+        {
+            "name" : "Dev Fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://devfonts.gafi.dev/",
+            "desc" : "Interactive list of the best fonts for developers with options to preview fonts and themes",
+            "keywords" : "devfonts,devfont,coding,developer,fonts,javascript,vscode,themes,preview",
+            "tags" :[
+                "font",
+                "typography",
+                "developer",
+                "theme"
+            ]
+        },
+        {
+            "name" : "WhatTheFont",
+            "title": "WhatTheFont! « MyFonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://www.myfonts.com/WhatTheFont/",
+            "desc" : "Seen a font in use and want to know what it is? Upload an image to WhatTheFont to find the closest matches in our database.",
+            "tags" :[
+                "font",
+                "typography",
+                "guide"
+            ]
+        },
+        {
+            "name" : "Variable Fonts",
+            "category" : [
+                25
+            ],
+            "link" : "https://v-fonts.com/",
+            "desc" : "A simple resource for finding and trying variable fonts.",
+            "tags" :[
+                "font",
+                "typography",
+                "guide"
+            ]
+        },
+        {
             "name" : "",
             "title": "",
             "category" : [
-                10
+                25
             ],
             "link" : "",
             "image": "",
             "desc" : "",
             "tags" :[
-                
+                "font",
+                "typography"
             ]
-
         }
+
     ]
 
 }
