@@ -34,7 +34,7 @@ getData().then(data => {
         `;
         })
     }
-    find("free");
+    find("generator");
 
     
     

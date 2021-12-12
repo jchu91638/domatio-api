@@ -2172,20 +2172,421 @@
             ]
         },
         {
-            "name" : "",
-            "title": "",
+            "name" : "Flat Icon",
+            "title": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
             "category" : [
-                25
+                30
             ],
-            "link" : "",
-            "image": "",
-            "desc" : "",
+            "link" : "https://www.flaticon.com/",
+            "image": "https://media.flaticon.com/share/flaticon-generic.jpg",
+            "desc" : "Download Free Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats",
             "tags" :[
+                "icon",
+                "vector",
+                "free",
+                "premium"
+            ]
+        },
+        {
+            "name" : "Font Awesome",
+            "category" : [
+                30
+            ],
+            "link" : "https://fontawesome.com/",
+            "image": "https://img.fortawesome.com/349cfdf6/fontawesome-open-graph.png",
+            "desc" : "The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.",
+            "keywords" : "icons, vector icons, svg icons, free icons, icon font, webfont, desktop icons, svg, font awesome, font awesome free, font awesome pro",
+            "tags" :[
+                "icon",
                 "font",
-                "typography"
+                "design",
+                "frontend",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Feather icons",
+            "title": "Feather – Simply beautiful open source icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://feathericons.com/",
+            "image": "https://feathericons.com/feather-og.png",
+            "desc" : "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
+            "tags" :[
+                "icon",
+                "free"
+            ]
+        },
+        {
+            "name" : "Iconfinder",
+            "title": "5,975,000+ free and premium vector icons - Iconfinder",
+            "category" : [
+                30
+            ],
+            "link" : "https://www.iconfinder.com/",
+            "image": "https://www.iconfinder.com/static/img/meta-generic.png?ae322aea72",
+            "desc" : "Iconfinder is the world's largest marketplace for vector and raster icons in SVG and PNG formats.",
+            "tags" :[
+                "icon",
+                "vector",
+                "free",
+                "premium",
+                "SVG",
+                "design"
+            ]
+        },
+        {
+            "name" : "Iconscout",
+            "title": "Download 3.7M+ Icons, 3D Illustrations &amp; Lottie Animations | Iconscout",
+            "category" : [
+                30
+            ],
+            "link" : "https://iconscout.com/",
+            "image": "https://iconscout.com/og.png",
+            "desc" : "Download 3.7 Million+ high-quality free vector Icons, Illustrations, 3D assets, and Lottie Animations that are available in static &amp; animated formats at Iconscout",
+            "tags" :[
+                "icon",
+                "vector",
+                "illustration",
+                "free",
+                "animation"
+            ]
+        },
+        {
+            "name" : "favicon.io",
+            "title": "The best Favicon Generator (completely free) - favicon.io",
+            "category" : [
+                30
+            ],
+            "link" : "https://favicon.io/",
+            "image": "https://favicon.io/og-image.png",
+            "desc" : "The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.",
+            "tags" :[
+                "icon",
+                "logo",
+                "ico",
+                "generator",
+                "design",
+                "emoji",
+                "favicon"
+            ]
+        },
+        {
+            "name" : "Favicon Icons",
+            "title": "Favicon Icons – Free Vector Download, PNG, SVG, GIF",
+            "category" : [
+                30
+            ],
+            "link" : "https://icons8.com/icons/set/favicon",
+            "image": "https://icons8.com/vue-static/landings/primary-landings/preview_icons8.png",
+            "desc" : "Free Favicon icons in various UI design styles for web and mobile. Download free static and animated Favicon vector icons in PNG, SVG, GIF formats",
+            "tags" :[
+                "icon",
+                "SVG",
+                "favicon",
+                "design"
+            ]
+        },
+        {
+            "name" : "UX Wing",
+            "title": "Free icons for website with commercial use no attribution",
+            "category" : [
+                30
+            ],
+            "link" : "https://uxwing.com/",
+            "image": "https://uxwing.com/wp-content/themes/uxwing/images/twitter-card-image.png",
+            "desc" : "Scalable Free icons for website with commercial use no attribution available royalty free download for commercial use in PNG transparent background and SVG graphics for website, android, iPhone",
+            "tags" :[
+                "icon",
+                "SVG",
+                "design",
+                "free",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Iconclub",
+            "title": "Iconclub - 8000+ free icons I Shaped Fonts",
+            "category" : [
+                30
+            ],
+            "link" : "https://shapedfonts.com/iconclub/",
+            "desc" : "We&#039;ve created a free icon tool for the community to enhance the workflow while creating wireframes or prototypes. Available for Adobe XD, Illustrator, Photoshop, Sketch and many more.",
+            "tags" :[
+                "icon",
+                "graphic design",
+                "design",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Tabler Icons",
+            "title": "Tabler Icons - 800+ Highly customizable free SVG icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://tablericons.com/",
+            "image": "https://tablericons.com/tablericons_og.png",
+            "desc" : "800+ Highly customizable & free SVG icons",
+            "tags" :[
+                "icon",
+                "SVG",
+                "free",
+                "UI",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Simple Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://simpleicons.org/",
+            "image": "https://simpleicons.org/images/og.png",
+            "desc" : "2121 Free SVG icons for popular brands.",
+            "tags" :[
+                "icon",
+                "logo",
+                "SVG",
+                "color",
+                "brand",
+                "free",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Linear Icons",
+            "title": "Free Vector Line Icons (SVG, PNG, PSD, CSH, EPS, Icon Font and more)",
+            "category" : [
+                30
+            ],
+            "link" : "https://linearicons.com/free",
+            "desc" : "Linearicons is the highest quality set of line icons, matching with minimalist UI designs in iOS. This icon pack was designed on a 20&times;20 grid with a lot of care, resulting in crisp and pixel perfect icons. Both free and premium versions are easy to use in any platform including iOS and Android.",
+            "tags" :[
+                "icon",
+                "free",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Noun Project",
+            "title": "Noun Project: Free Icons &amp; Stock Photos for Everything",
+            "category" : [
+                30
+            ],
+            "link" : "https://thenounproject.com/",
+            "desc" : "Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.",
+            "tags" :[
+                "icon",
+                "SVG",
+                "photo",
+                "free"
+            ]
+        },
+        {
+            "name" : "IconSearch",
+            "title": "IconSearch: Instant icon search for SVG icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://iconsear.ch/search.html",
+            "image": "https://iconsear.ch/images/hero.png",
+            "desc" : "Search through 76,522 SVG icons from 102 sources",
+            "tags" :[
+                "icon",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Nucleo App",
+            "title": "Icon Organizer & Icon Library",
+            "category" : [
+                30
+            ],
+            "link" : "https://nucleoapp.com/",
+            "image": "https://nucleoapp.com/assets/img/nucleo-3-open-graph.jpg",
+            "desc" : "Nucleo is a Mac/Windows app to organize, customize and export all your icons, and a library of 30000+ SVG icons.",
+            "keywords" : "svg,icon,icons,vector,vector icons,svg icons,ios icons,android icons,icons app",
+            "tags" :[
+                "icon",
+                "generator",
+                "design",
+                "library",
+                "organizer",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Icon-icons",
+            "title": "Free Icons PNG, ICO, ICNS and Vector file SVG",
+            "category" : [
+                30
+            ],
+            "link" : "https://icon-icons.com/",
+            "desc" : "Free icons for your project, find the perfect icon you need in our amazing icons collection, available in SVG, PNG, ICO or ICNS for free.",
+            "tags" :[
+                "icon",
+                "free",
+                "design",
+                "ico",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Bootstrap Icons",
+            "title": "Bootstrap Icons · Official open source SVG icon library for Bootstrap",
+            "category" : [
+                30
+            ],
+            "link" : "https://icons.getbootstrap.com/",
+            "image": "https://icons.getbootstrap.com/assets/img/bootstrap-icons-social.png",
+            "desc" : "Official open source SVG icon library for Bootstrap",
+            "tags" :[
+                "icon",
+                "bootstrap",
+                "SVG",
+                "free",
+                "design",
+                "frontend"
+            ]
+        },
+        {
+            "name" : "Remix Icon",
+            "title": "Remix Icon - Open source icon library",
+            "category" : [
+                30
+            ],
+            "link" : "https://remixicon.com/",
+            "desc" : "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
+            "keywords" : "remix-icon,icon,svg,icon-font,icon-pack",
+            "tags" :[
+                "icon",
+                "design",
+                "frontend",
+                "library"
+            ]
+        },
+        {
+            "name" : "iconmonstr",
+            "title": "iconmonstr - Free simple icons for your next project",
+            "category" : [
+                30
+            ],
+            "link" : "https://iconmonstr.com/",
+            "desc" : "Free simple icons for your next project",
+            "tags" :[
+                "icon",
+                "free",
+                "design",
+                "font"
+            ]
+        },
+        {
+            "name" : "Vivid.js",
+            "title": "Free Open Source SVG Icons Set Pack and Library [100+ Icons] - Vivid.js",
+            "category" : [
+                30
+            ],
+            "link" : "https://webkul.github.io/vivid/",
+            "image": "https://webkul.github.io/vivid/assets/res/vivid-cover.png",
+            "desc" : "Get 100+ free open source svg icons set pack and library which are ready to use in both sketch app and javascript projects built with react and npm.",
+            "tags" :[
+                "icon",
+                "SVG",
+                "JS library",
+                "javascript",
+                "frontend",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Lordicon",
+            "title": "2000+ Animated Icons - Lordicon",
+            "category" : [
+                30
+            ],
+            "link" : "https://lordicon.com/",
+            "image": "https://lordicon.com/assets/pictures/lordicon-preview.gif",
+            "desc" : "Powerful animated icon library with 2000+ free and premium animated Lottie animations. Download icons as Lottie JSON, GIF, or static SVG files.",
+            "tags" :[
+                "icon",
+                "animation",
+                "library",
+                "free",
+                "premium"
+            ]
+        },
+        {
+            "name" : "Use Animations",
+            "title": "A micro-animations library",
+            "category" : [
+                30
+            ],
+            "link" : "https://useanimations.com/",
+            "image": "https://useanimations.com/images/OGuseAnimationsImage.jpg",
+            "desc" : "Animated icons in Lottie Framework and for immediate implementation to your apps or websites.",
+            "tags" :[
+                "icon",
+                "animation",
+                "lottie",
+                "UI",
+                "dessign",
+                "library"
+            ]
+        },
+        {
+            "name" : "css.gg",
+            "title": "700+ CSS Icons, Customizable, Retina Ready & API",
+            "category" : [
+                30
+            ],
+            "link" : "https://css.gg/",
+            "image": "https://css.gg/fav/og2.png",
+            "desc" : "Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API",
+            "tags" :[
+                "icon",
+                "CSS",
+                "design",
+                "frontend",
+                "API",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "IconBros",
+            "title": "Free icons - SVG, PNG, & Icon Font - Thousands of free icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://www.iconbros.com/",
+
+            "desc" : "Free icons - SVG, PNG, & Icon Font - Thousands of free icons",
+            "tags" :[
+                "icon",
+                "free",
+                "SVG",
+                "font"
+            ]
+        },
+        {
+            "name" : "Material Design Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://materialdesignicons.com/",
+            "image": "",
+            "desc" : "View all the Material Design icons and more from the community.",
+            "keywords" : "material,design,material design,icons,lollipop,android,templarian,austin andrews",
+            "tags" :[
+                "icon",
+                "material",
+                "design",
+                "SVG",
+                "free"
             ]
         }
-
     ]
 
 }
