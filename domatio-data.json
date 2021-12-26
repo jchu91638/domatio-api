@@ -2532,7 +2532,7 @@
                 "animation",
                 "lottie",
                 "UI",
-                "dessign",
+                "design",
                 "library"
             ]
         },
@@ -2726,6 +2726,245 @@
                 "premium",
                 "design",
                 "frontend"
+            ]
+        },
+        {
+            "name" : "Evericons",
+            "category" : [
+                30
+            ],
+            "link" : "http://www.evericons.com/",
+            "image": "http://evericons.com/img/share.png",
+            "desc" : "Get a free icons pack for your next project",
+            "tags" :[
+                "icon",
+                "free",
+                "figma",
+                "svg"
+            ]
+        },
+        {
+            "name" : "SVG Repo",
+            "title": "SVG Repo - Free SVG Vectors and Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://www.svgrepo.com/",
+            "image": "https://www.svgrepo.com/img/logo.svg",
+            "desc" : "Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 300.000+ Free SVG Vectors and Icons.",
+            "tags" :[
+                "icon",
+                "free",
+                "SVG",
+                "color",
+                "vector"
+            ]
+        },
+        {
+            "name" : "CSS ICON",
+            "title": "CSS ICON -- project by Wenting Zhang",
+            "category" : [
+                30
+            ],
+            "link" : "https://cssicon.space/",
+            "tags" :[
+                "icon",
+                "CSS",
+                "free",
+                "frontend"
+            ]
+        },
+        {
+            "name" : "Iconify",
+            "title": "Iconify - Unified icons framework",
+            "category" : [
+                30
+            ],
+            "link" : "https://iconify.design/",
+            "desc" : "Thousands of icons, one unified framework.",
+            "tags" :[
+                "icon",
+                "framework",
+                "frontend",
+                "free",
+                "design"
+            ]
+        },
+        {
+            "name" : "System UIcons",
+            "category" : [
+                30
+            ],
+            "link" : "https://systemuicons.com/",
+            "image": "https://systemuicons.com/images/ogp/systemuicons_banner.png",
+            "desc" : "A free icon set designed for systems and products. Use how you want, without attribution.",
+            "tags" :[
+                "icon",
+                "free",
+                "design",
+                "download"
+            ]
+        },
+        {
+            "name" : "Icon Park",
+            "title": "ByteDance IconPark",
+            "category" : [
+                30
+            ],
+            "link" : "https://iconpark.oceanengine.com/",
+            "desc" : "IconPark, park your icon. Made by ByteDance",
+            "tags" :[
+                "icon",
+                "free",
+                "generator",
+                "SVG",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Radix Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://icons.modulz.app/",
+            "image": "https://raw.githubusercontent.com/modulz/radix-icons/master/packages/website/public/preview.png",
+            "desc" : "A crisp set of 15×15 icons designed by the Modulz team.",
+            "tags" :[
+                "icon",
+                "frontend",
+                "SVG",
+                "figma",
+                "UI",
+                "free"
+            ]
+        },
+        {
+            "name" : "EOS Icons",
+            "title": "EOS free & open source icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://eos-icons.com/",
+            "image": "https://res.cloudinary.com/eosdesignsystem/image/upload/v1600948913/EOS/Social/eos-icons-social-media.jpg",
+            "desc" : "",
+            "tags" :[
+                "icon",
+                "free",
+                "animation",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Ionicons",
+            "title": "Ionicons: The premium icon pack for Ionic Framework",
+            "category" : [
+                30
+            ],
+            "link" : "https://ionic.io/ionicons",
+            "image": "https://ionic.io/ionicons/assets/img/meta/ionicons-og.png",
+            "desc" : "Ionicons is an open-sourced and MIT licensed icon pack.",
+            "tags" :[
+                "icon",
+                "free",
+                "SVG",
+                "premium",
+                "framework"
+            ]
+        },
+        {
+            "name" : "Phosphor Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://phosphoricons.com/",
+            "image": "https://phosphoricons.com/phosphor-opengraph.png",
+            "desc" : "A flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+            "tags" :[
+                "icon",
+                "figma",
+                "UI",
+                "frontend",
+                "design",
+                "plugin",
+                "generator",
+                "react"
+            ]
+        },
+        {
+            "name" : "Teenyicons",
+            "title": "Teenyicons — Tiny minimal 1px icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://teenyicons.com/",
+            "image": "https://teenyicons.com/og.png",
+            "desc" : "An elegant icon set by Anja van Staden with more than a thousand icons.",
+            "tags" :[
+                "icon",
+                "figma",
+                "design",
+                "free",
+                "frontend",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Lucide",
+            "title" :"Simply beautiful open source icons, community-sourced" , 
+            "category" : [
+                30
+            ],
+            "link" : "https://lucide.dev/",
+            "tags" :[
+                "icon",
+                "frontend",
+                "react",
+                "vue",
+                "free",
+                "javascript"
+            ]
+        },
+        {
+            "name" : "Icônes",
+            "category" : [
+                30
+            ],
+            "link" : "https://icones.js.org/",
+            "tags" :[
+                "icon",
+                "frontend",
+                "collection",
+                "UI"
+            ]
+        },
+        {
+            "name" : "shitty icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://shittyicons.com/",
+            "tags" :[
+                "icon",
+                "illustration",
+                "free",
+                "design",
+                "UI"
+            ]
+        },
+        {
+            "name" : "IconsPedia",
+            "title": "Icons & Icon Packs - Download Free PNG Icons | IconsPedia ",
+            "category" : [
+                30
+            ],
+            "link" : "https://www.iconspedia.com/",
+            "desc" : "World&#39;s best selection of high quality FREE icons. Discover why thousands of designers come to us first. Click to find your icon now!",
+            "tags" :[
+                "icon",
+                "free",
+                "UI",
+                "design",
+                "collection"
             ]
         }
     ]
