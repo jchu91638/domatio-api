@@ -2586,6 +2586,147 @@
                 "SVG",
                 "free"
             ]
+        },
+        {
+            "name" : "Heroicons",
+            "title": "Heroicons – Free Open Source SVG Icon Library",
+            "category" : [
+                30
+            ],
+            "link" : "https://heroicons.dev/",
+            "image": "https://heroicons.dev/static/social.png",
+            "desc" : "New MIT open source SVG icon library designed by Steve Schoger. Solid and stroke variants, one-click copy-paste, and Figma file. Built with Tailwind CSS.",
+            "tags" :[
+                "icon",
+                "design",
+                "UI",
+                "free",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Zondicons",
+            "title": "",
+            "category" : [
+                30
+            ],
+            "link" : "https://www.zondicons.com/icons.html",
+            "tags" :[
+                "icon",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Endless Icons",
+            "title": "Endless Icons | Free Icon Library",
+            "category" : [
+                30
+            ],
+            "link" : "https://endlessicons.com/",
+            "image": "",
+            "desc" : "Free Icons and creative stuff",
+            "keywords" : "free icons, icons, royalty-free icons",
+            "tags" :[
+                "icon",
+                "free",
+                "premium",
+                "library"
+            ]
+        },
+        {
+            "name" : "IcoMoon",
+            "title": "IcoMoon App - Icon Font, SVG, PDF &amp; PNG Generator",
+            "category" : [
+                30
+            ],
+            "link" : "https://icomoon.io/app/#/select",
+            "desc" : "Using IcoMoon you can easily search and download vector icons or generate fonts (icon fonts). This tool can also be used for icon set management. It can generate icon fonts, SVGs, PDFs, PNGs and sprites.",
+            "tags" :[
+                "icon",
+                "generator",
+                "free"
+            ]
+        },
+        {
+            "name" : "Eva Icons",
+            "title": "Eva Icons - beautifully crafted Open Source UI icons for common actions and items.",
+            "category" : [
+                30
+            ],
+            "link" : "https://akveo.github.io/eva-icons/#/",
+            "desc" : "Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.",
+            "keywords" : "icons,icons pack,icons font,icons set,icons free,icons android,png a icons,icons copy and paste,icons css,icons collection,icons desktop,icons design,icons images, icons font",
+            "tags" :[
+                "icon",
+                "SVG",
+                "free",
+                "frontend",
+                "design"
+            ]
+        },
+        {
+            "name" : "Crypto Icons",
+            "title": "Cryptocurrency Icons",
+            "category" : [
+                30
+            ],
+            "link" : "http://cryptoicons.co/",
+            "tags" :[
+                "icon",
+                "cryto",
+                "SVG",
+                "free"
+            ]
+        },
+        {
+            "name" : "Ikonate",
+            "title": "Ikonate – fully customisable & accessible vector icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://ikonate.com/",
+            "image": "https://ikonate.com/cover.png",
+            "desc" : "Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop. Ready to use as images, inline SVGs or SVG sprites.",
+            "tags" :[
+                "icon",
+                "free",
+                "vector",
+                "SVG",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "App Icon Generator",
+            "category" : [
+                30
+            ],
+            "link" : "https://appicon.co/",
+            "image": "https://docs.google.com/uc?id=1mou0IgZ01pFibPt14jWx6s6JOXbPwMpp",
+            "desc" : "Generate icons and images for mobile apps, android and iOS. No need to upload or download. Works on your browser",
+            "tags" :[
+                "icon",
+                "generator",
+                "free"
+            ]
+        },
+        {
+            "name" : "Lineicons",
+            "title": "Free Line Icons for Designers and Developers - Lineicons",
+            "category" : [
+                30
+            ],
+            "link" : "https://lineicons.com/",
+            "image": "https://cms.lineicons.com/wp-content/uploads/2021/05/lni-home.jpg",
+            "desc" : "5000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.",
+            "tags" :[
+                "icon",
+                "SVG",
+                "free",
+                "premium",
+                "design",
+                "frontend"
+            ]
         }
     ]
 
