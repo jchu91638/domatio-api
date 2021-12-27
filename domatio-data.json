@@ -2966,6 +2966,356 @@
                 "design",
                 "collection"
             ]
+        },
+        {
+            "name" : "iconhub",
+            "title": "Just practical stunning icons for everyone",
+            "category" : [
+                30
+            ],
+            "link" : "",
+            "image" : "https://iconhub.io/img/hero.jpeg",
+            "desc" : "Save your penny and time creating from scratch, use these diverse Icon set to complete your awesome design",
+            "tags" :[
+                "icon",
+                "free",
+                "generator",
+                "frontend",
+                "design",
+                "UI"
+            ]
+        },
+        {
+            "name" : "FontIcon",
+            "title": "FontIcon 💙 Font Awesome Favicon Generator 🔥",
+            "category" : [
+                30
+            ],
+            "link" : "https://gauger.io/fonticon/",
+            "desc" : "Create favicons using Font Awesome icons 🚀. Preview favicons live in browser 🖥️.",
+            "tags" :[
+                "icon",
+                "generator",
+                "favicon",
+                "frontend",
+                "font"
+            ]
+        },
+        {
+            "name" : "Line Awesome",
+            "title": "Line Awesome — Free Beautiful Icon Font",
+            "category" : [
+                30
+            ],
+            "link" : "https://icons8.com/line-awesome",
+            "image" : "https://icons8.com/line-awesome/vue-static/landings/line-awesome/preview_line-awesome.png",
+            "desc" : "Replace Font Awesome with modern line icons with a single line of code.",
+            "tags" :[
+                "icon",
+                "free",
+                "generator",
+                "design",
+                "UI",
+                "frontend"
+            ]
+        },
+        {
+            "name" : "Material Icons",
+            "title": "Google Fonts",
+            "category" : [
+                30
+            ],
+            "link" : "https://fonts.google.com/icons?selected=Material+Icons",
+            "image": "http://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png",
+            "desc" : "Making the web more beautiful, fast, and open through great typography",
+            "tags" :[
+                "icon",
+                "google",
+                "font",
+                "UI",
+                "frontend",
+                "design",
+                "typography"
+            ]
+        },
+        {
+            "name" : "Fontisto",
+            "title": "Fontisto - the iconic font and css toolkit",
+            "category" : [
+                30
+            ],
+            "link" : "https://fontisto.com/",
+            "image":"http://www.fontisto.com/assets/images/touch/fontisto-192.png",
+            "desc" : "Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.",
+            "keywords":"font, icon, icon font, icon pack, web font, web icons, icon set, font library, font icon, svg icon, simge font, iconic font, glyph icons",
+            "tags" :[
+                "icon",
+                "design",
+                "frontend",
+                "generator",
+                "CSS",
+                "vector",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Foundation Icon Fonts",
+            "title": "Foundation Icon Fonts 3 | Playground from ZURB",
+            "category" : [
+                30
+            ],
+            "link" : "https://zurb.com/playground/foundation-icon-fonts-3",
+            "desc" : "A freshly updated icon font set that you can use with CSS on your next Foundation project.",
+            "keywords":"icons, icon, font icons, icon font, zurb, foundation, foundation icons, free icons",
+            "tags" :[
+                "icon",
+                "frontend",
+                "UI",
+                "font",
+                "CSS",
+                "foundation",
+                "free"
+            ]
+        },
+        {
+            "name" : "Boxicons",
+            "title": "Boxicons : Premium web friendly icons for free",
+            "category" : [
+                30
+            ],
+            "link" : "https://boxicons.com/",
+            "image":"http://boxicons.com/static/img/og-image.png",
+            "desc" : "Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines",
+            "keywords":"boxicons,free icons,open source icons, royalty free icons,google icons, icon, line icon, sharp icon, material icons, premium icons, pixel perfect icons, open source icons, free icon set",
+            "tags" :[
+                "icon",
+                "free",
+                "premium",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "IcoFont",
+            "title": "Free Icon Font &amp; SVG Icons | IcoFont",
+            "category" : [
+                30
+            ],
+            "link" : "https://icofont.com/",
+            "image":"https://icofont.com/images/og/home.jpg",
+            "desc" : "IcoFont is an icon font application that contains 2100+ icons in a single font. Download the font for free or build icons bundle and download custom build font.",
+            "tags" :[
+                "icon",
+                "ico",
+                "free",
+                "generator",
+                "SVG",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "MD Iconic Font",
+            "title": "Material Design Iconic Font by zavoloklom",
+            "category" : [
+                30
+            ],
+            "link" : "http://zavoloklom.github.io/material-design-iconic-font/index.html",
+            "image":"http://zavoloklom.github.io/material-design-iconic-font/img/Material-Design-Iconic-Font-2.png",
+            "desc" : "Material Design Iconic Font is a full suite of official material design icons and community icons for easy scalable vector graphics on websites or desktop.",
+            "tags" :[
+                "icon",
+                "material",
+                "font",
+                "design"
+            ]
+        },
+        {
+            "name" : "Material Palette",
+            "title": "Material Palette - Material Design Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://www.materialpalette.com/icons",
+            "image":"http://www.materialpalette.com/assets/facebook-e97d3446eefa01933d14bf4aa46907c0d3fcd4c2c17396b4a4731414992104b3.png",
+            "desc" : "Choose your favorite colors and get your Material Design palette generated and downloadable.",
+            "tags" :[
+                "icon",
+                "material",
+                "free",
+                "generator",
+                "UI",
+                "frontend"
+            ]
+        },
+        {
+            "name" : "codicon",
+            "title": "codicon | The icon font for Visual Studio Code",
+            "category" : [
+                30
+            ],
+            "link" : "https://microsoft.github.io/vscode-codicons/dist/codicon.html",
+            "tags" :[
+                "icon",
+                "font"
+            ]
+        },
+        {
+            "name" : "PaymentFont",
+            "title": "A sleek webfont for your favourite payment operators and methods.",
+            "category" : [
+                30
+            ],
+            "link" : "https://github.com/AlexanderPoellmann/PaymentFont",
+            "tags" :[
+                "icon",
+                "free",
+                "frontend",
+                "UI",
+                "design"
+            ]
+        },
+        {
+            "name" : "Weather Icons",
+            "title": "Weather Icons - 222 font icons inspired by Font Awesome and designed for Bootstrap",
+            "category" : [
+                30
+            ],
+            "link" : "https://erikflowers.github.io/weather-icons/",
+            "image":"",
+            "desc" : "Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!",
+            "tags" :[
+                "icon",
+                "CSS",
+                "bootstrap",
+                "frontend",
+                "free",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Jam icons",
+            "title": "Jam icons / 890+ pixel perfect icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://jam-icons.com/",
+            "image":"https://jam-icons.com/img/jam-large.jpg",
+            "desc" : "890+ handcrafted SVG icons to make your web app awesome.",
+            "tags" :[
+                "icon",
+                "UI",
+                "design",
+                "frontend",
+                "free",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Demo Icon Font",
+            "title": "Demo Icon Font - Stroke Icons 7 - by Pixeden.",
+            "category" : [
+                30
+            ],
+            "link" : "https://themes-pixeden.com/font-demos/7-stroke/index.html",
+            "desc":"A series of iOS 7 inspired vector icons in a custom@font-face icon font that can be styled dynamically using CSS. Those retina ready icons have a very modern style that will beautifully complement any project.",
+            "tags" :[
+                "icon",
+                "font",
+                "CSS",
+                "frontend",
+                "UI",
+                "design",
+                "generator"
+            ]
+        },
+        {
+            "name" : "Fontastic",
+            "title": "Create your Icon Font in seconds - 9000 Vector Icons Available - Free Icon Font Generator",
+            "category" : [
+                30
+            ],
+            "link" : "https://fontastic.me/",
+            "desc" : "Create your icon fonts in seconds. Make your website faster. Over 9,000 icons available. New. Now you can publish your icons as SVG Sprites.",
+            "tags" :[
+                "icon",
+                "generator",
+                "SVG",
+                "vector",
+                "free"
+            ]
+        },
+        {
+            "name" : "Fontello",
+            "title": "Fontello - icon fonts generator",
+            "category" : [
+                30
+            ],
+            "link" : "https://fontello.com/",
+            "image":"ttps://fontello.com/snippet.png",
+            "desc" : "An easy way to create a custom icon font for your site. Select images from our large collection, and make a webfont pack with one click.",
+            "tags" :[
+                "icon",
+                "generator",
+                "SVG",
+                "UI",
+                "design",
+                "free",
+                "font"
+            ]
+        },
+        {
+            "name" : "Linea",
+            "title": "Linea Icons :20+ Best Sites for Free Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://linea.io/",
+            "image":"https://linea.io/blg/lna/img/social.webp",
+            "desc" : "Personalizing the icons of your PC or your website is a fun way to spruce up the appeal. You can use better Icons instead of the regular boring folders. However, you need to know where to find the best icons. Here are several sites where you can safely find beautiful icons. Where to find free &hellip; Linea Icons :20+ Best Sites for Free Icons",
+            "keywords":"",
+            "tags" :[
+                "icon",
+                "UI",
+                "design",
+                "frontend",
+                "free"
+            ]
+        },
+        {
+            "name" : "Mobirise Icons",
+            "title": "Free Icon Font - Pixel-Perfect Line Vector Icons",
+            "category" : [
+                30
+            ],
+            "link" : "https://mobiriseicons.com/",
+            "desc" : "Open source and 100% free icon font and svg icon set for web design",
+            "tags" :[
+                "icon",
+                "free",
+                "UI",
+                "design",
+                "SVG",
+                "font"
+            ]
+        },
+        {
+            "name" : "Unicons",
+            "title": "4500+ Free Vector Icons | Unicons by Iconscout",
+            "category" : [
+                30
+            ],
+            "link" : "https://iconscout.com/unicons",
+            "image":"https://iconscout.com/og/unicons.png",
+            "desc" : "Pixel-perfect vector icons and Icon Fonts available in Line, Monochrome Solid and Thin Line style for your next project.",
+            "tags" :[
+                "icon",
+                "UI",
+                "free",
+                "vector",
+                "SVG",
+                "design"
+            ]
         }
     ]
 
