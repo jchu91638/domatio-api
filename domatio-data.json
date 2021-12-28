@@ -3316,6 +3316,352 @@
                 "SVG",
                 "design"
             ]
+        },
+        {
+            "name" : "Dribbble",
+            "title": "Dribbble - Discover the World’s Top Designers &amp; Creative Professionals",
+            "category" : [
+                35
+            ],
+            "link" : "https://dribbble.com/",
+            "image":"https://cdn.dribbble.com/assets/art-banners/romainbriaux-510w-51a20c877f4deef57fbbb82609ae6d846bcd4129f21e21505371255abb3f2f60.webp",
+            "desc" : "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX"
+            ]
+        },
+        {
+            "name" : "Behance",
+            "title": "Search Projects | Photos, videos, logos, illustrations and branding on Behance",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.behance.net/",
+            "image":"https://mir-s3-cdn-cf.behance.net/projects/original/0c7967114525027.Y3JvcCwxNDAwLDEwOTUsMCwyODc.jpg",
+            "desc" : "Behance is the world's largest creative network for showcasing and discovering creative work",
+            "keywords":"online portfolio, online portfolio site, creative professional platform, creative network, creative community, creative talent",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "image",
+                "job"
+            ]
+        },
+        {
+            "name" : "Pinterest",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.pinterest.com/",
+            "image":"https://s.pinimg.com/images/facebook_share_image.png",
+            "desc" : "Discover recipes, home ideas, style inspiration and other ideas to try.",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "photo",
+                "image"
+            ]
+        },
+        {
+            "name" : "abdz",
+            "title": "abdz - Have you given up on being inspired?",
+            "category" : [
+                35
+            ],
+            "link" : "https://abduzeedo.com/",
+            "desc" : "abdz. is a collective of individual writers sharing articles about design, photography, and UX as well as tutorials for Photoshop and other tools",
+            "keywords":"design inspiration, design articles, photoshop tutorials, UI/UX",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "illustration",
+                "photo",
+                "photography"
+            ]
+        },
+        {
+            "name" : "XDGuru",
+            "title": "Adobe XD Templates, UI kits and Freebies - Top resources on XDGuru",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.xdguru.com/",
+            "desc" : "XDGuru provides useful resources for UI/UX designers using Adobe XD: templates, UI kits, freebies, great tutorials &amp; guides, and plenty of other stuff!",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "adobe xd",
+                "XD",
+                "pratice",
+                "free"
+            ]
+        },
+        {
+            "name" : "Free CSS",
+            "title": "Free CSS | 3281 Free Website Templates, CSS Templates and Open Source Templates",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.free-css.com/",
+            "desc" : "Free CSS has 3281 free website templates, all templates are free CSS templates, open source templates or creative commons templates.",
+            "keywords":"Free CSS, Free CSS Templates, CSS Website Templates, Templates, Free Templates, CSS, Web Site Templates, Free CSS Menus",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "CSS"
+            ]
+        },
+        {
+            "name" : "W3Layouts",
+            "title": "4000+ Free WordPress Themes and Website Templates - W3Layouts",
+            "category" : [
+                35
+            ],
+            "link" : "https://w3layouts.com/",
+            "image":"https://w3lcdn.w3layouts.com/wp-content/uploads/2021/04/w3-fb-cover-scaled.jpeg",
+            "desc" : "W3Layouts Wordpress Themes and website templates are built with responsive web design techniques with HTML5, So they work across all devices.",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creation",
+                "UI",
+                "UX",
+                "wordpress"
+            ]
+        },
+        {
+            "name" : "UpLabs",
+            "title": "Unlimited UI Kits, Icons, Templates, Themes and More - UpLabs",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.uplabs.com/",
+            "desc" : "UpLabs curates the best of design &amp; development inspiration, resources and freebies. Every day!",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "graphic design",
+                "free"
+            ]
+        },
+        {
+            "name" : "AdminLTE",
+            "title": "Free Bootstrap Admin Template | AdminLTE.IO",
+            "category" : [
+                35
+            ],
+            "link" : "https://adminlte.io/",
+            "image":"https://adminlte.io/img/AdminLTE2.1.png?v=2",
+            "desc" : "Best open source admin dashboard &amp; control panel theme. Built on top of Bootstrap 4, AdminLTE provides a range of responsive, reusable, and commonly used components.",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "bootstrap"
+            ]
+        },
+        {
+            "name" : "Squarespace",
+            "title": "Build a Website – Website Builder – Squarespace",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.squarespace.com/",
+            "image":"http://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/t/614b47afa0f77b1418f13c5f/1632323503633/squarespace.com.jpg?format=1500w",
+            "desc" : "Squarespace is the all-in-one solution for anyone looking to create a beautiful website. Domains, eCommerce, hosting, galleries, analytics, and 24/7 support all included.",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "UI",
+                "UX",
+                "generator",
+                "builder"
+            ]
+        },
+        {
+            "name" : "UI Design Daily",
+            "title": "UI Design Daily | Weekly FREE UI resources straight to your inbox",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.uidesigndaily.com/",
+            "image":"https://uidesigndaily.com/public/img/og-image.png",
+            "desc" : "Weekly FREE UI resources straight to your inbox.",
+            "keywords": "UI Resources, UI Design, Open-Source Design",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "free"
+            ]
+        },
+        {
+            "name" : "100 UI Library",
+            "category" : [
+                35
+            ],
+            "link" : "https://100dailyui.webflow.io/",
+            "image":"https://assets.website-files.com/5e511e2ee1702d75e443ef5e/6180057345397b2574bc9f21_one_seo.png",
+            "desc" : "The first free collection of 100 UI screens. All files available in Figma.",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "figma",
+                "free"
+            ]
+        },
+        {
+            "name" : "Sketch App Sources",
+            "title": "Sketch App Sources - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.sketchappsources.com/",
+            "image":"http://www.sketchappsources.com/images/sas-share.png",
+            "desc" : "The largest collection of free and premium Sketch resources for mobile, web, UI, and UX designers working with Sketch by Bohemian Coding. All .sketch files and .svg files are editable and easy to use.",
+            "keywords":"free, freebie, ui kit, downloads, sketch, resources, source, sketch app, icons, ui, kit, wireframe, template, bohemian, sketch3, sketchapp, vector, svg, premium, files",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "icon",
+                "SVG",
+                "free"
+            ]
+        },
+        {
+            "name" : "UI Space",
+            "title": "UI Space | Free PSD, AI, Fonts and more",
+            "category" : [
+                35
+            ],
+            "link" : "https://uispace.net/",
+            "desc" : "High quality hand-crafted Free Sketch files, PSDs and AI freebies, free fonts, mockups, the latest free icons sets and other free vectorial resources.",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "graphic design",
+                "free"
+            ]
+        },
+        {
+            "name" : "Freebiesbug",
+            "title": "Free Resources for Designers and Developers - Freebiesbug",
+            "category" : [
+                35
+            ],
+            "link" : "https://freebiesbug.com/",
+            "image":"https://cdn.freebiesbug.com/wp-content/uploads/2021/10/136650060_224811135884383_1789226083215389687_n.png",
+            "desc" : "Latest free PSDs &amp; other resources for designers",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "free"
+            ]
+        },
+        {
+            "name" : "Invision App",
+            "title": "Free Design Resources",
+            "category" : [
+                35
+            ],
+            "link" : "https://www.invisionapp.com/inside-design/design-resources/",
+            "image":"https://s3.amazonaws.com/www-inside-design/uploads/2019/07/Resources-16x9.png",
+            "desc" : "Some of our favorite icons, design kits, apps, and resources to put to use as you bring your prototypes to life.",
+            "tags" :[
+                "inspiration",
+                "design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX"
+            ]
+        },
+        {
+            "name" : "PFOLIOS",
+            "title": "PFOLIOS - Most Inspiring Portfolios",
+            "category" : [
+                35
+            ],
+            "link" : "https://pfolios.net/",
+            "image":"https://pfolios.net/fb-og-image.jpg",
+            "desc" : "Showcase of the most inspiring portfolios. Available soon on web, newsletter, instagram and twitter.",
+            "tags" :[
+                "inspiration",
+                "web design",
+                "UI/UX",
+                "creative",
+                "creation",
+                "UI",
+                "UX",
+                "portfolio"
+            ]
         }
     ]
 
