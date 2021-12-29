@@ -3662,6 +3662,323 @@
                 "UX",
                 "portfolio"
             ]
+        },
+        {
+            "name" : "unDraw",
+            "title": "unDraw - Open source illustrations for any idea",
+            "category" : [
+                40
+            ],
+            "link" : "https://undraw.co/",
+            "image":"https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/v2/undraw_social_20.png",
+            "desc" : "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
+            "tags" :[
+                "illustration",
+                "free",
+                "graphic design",
+                "generator",
+                "people",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Flexiple",
+            "title": "Free Vector Illustrations for Commercial Use | Scale",
+            "category" : [
+                40
+            ],
+            "link" : "https://2.flexiple.com/scale/all-illustrations",
+            "image":"https://uploads-ssl.webflow.com/5e5365d233730913f7f9ed7e/5fad4f5a60efa2f873e9cc4c_Scale%20social%20image%20-%202.png",
+            "desc" : "Top-quality illustrations, 100% free - no attribution, no IP-related restrictions. Pick an illustration and customize to your branding using our color picker.",
+            "tags" :[
+                "illustration",
+                "free",
+                "graphic design",
+                "generator",
+                "people",
+                "SVG",
+                "vector"
+            ]
+        },
+        {
+            "name" : "Lukasz Adam",
+            "title": "Designer, Developer, Illustrator | Lukasz Adam",
+            "category" : [
+                40
+            ],
+            "link" : "https://lukaszadam.com/",
+            "image":"https://lukaszadam.com/assets/downloads/storefront_illustration.svg",
+            "desc" : "Hey! Looking for the free Illustration guys? That's me. Check out my illustrations and my other resources.",
+            "tags" :[
+                "illustration",
+                "free",
+                "graphic design",
+                "SVG",
+                "vector"
+            ]
+        },
+        {
+            "name" : "Open Doodles",
+            "title": "Open Doodles - Free sketchy illustrations",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.opendoodles.com/",
+            "image":"https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4cb5454976755fcac7930_seo-doodles.jpg",
+            "desc" : "A library of sketchy illustrations of people free for personal and commercial use.",
+            "tags" :[
+                "illustration",
+                "free",
+                "people",
+                "SVG",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Freepik",
+            "title": "Free Vectors, Stock Photos & PSD Downloads | Freepik",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.freepik.com/",
+            "image":"https://freepik.cdnpk.net/img/logo-fb-en.png",
+            "desc" : "Discover millions of copyright-free vectors, photos and PSD",
+            "tags" :[
+                "illustration",
+                "free",
+                "premium",
+                "vector",
+                "graphic design",
+                "photoshop"
+            ]
+        },
+        {
+            "name" : "Vexels",
+            "title": "Vector Images, Illustrations, Merch Designs for Commercial Use | Vexels",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.vexels.com/",
+            "image":"https://cdn.vexels.com/img/Open-Graph-Home-Vexels.jpg",
+            "desc" : "Graphic Resources for Commercial &amp; Merch Use ✓ Vector image illustrations, logos, design templates &amp; more ✓ T-Shirt Designs &amp; other Merch  ✓ PNG, AI, SVG, JPG, PDF",
+            "keywords":"",
+            "tags" :[
+                "illustration",
+                "free",
+                "graphic design",
+                "image",
+                "SVG",
+                "vinyle"
+            ]
+        },
+        {
+            "name" : "Vector.me",
+            "title": "Free Vectors | +79,473 free vector images | Vector.me",
+            "category" : [
+                40
+            ],
+            "link" : "https://vector.me/",
+            "desc" : "Download free Vectors and Illustrations. Over +79,473 vector art, vectors, vector images and silhouettes in AI, SVG, EPS and CDR.",
+            "tags" :[
+                "illustration",
+                "vector",
+                "free",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "365PSD",
+            "title": "Free PSD, graphics and vector files | +60,631 Vectors &amp; PSD - 365PSD.com",
+            "category" : [
+                40
+            ],
+            "link" : "https://365psd.com/",
+            "image":"https://365psd.com/static/images/social365psd.jpg",
+            "desc" : "Download free psd files, vectors and graphics. Choose from thousands of free psd flyers, psd mockups, psd templates, vector and graphic files.",
+            "tags" :[
+                "illustration",
+                "photoshop",
+                "free",
+                "graphic design",
+                "vector"
+            ]
+        },
+        {
+            "name" : "Subtle Patterns",
+            "title": "Subtle Patterns | Free textures for your next web project",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.toptal.com/designers/subtlepatterns/",
+            "image":"https://www.toptal.com/designers/subtlepatterns/assets/images/subtle-patterns-toptal-og-image.png",
+            "desc" : "Subtle Patterns brought to you by Toptal, free textures for your next web project. Find out more here.",
+            "tags" :[
+                "illustration",
+                "background",
+                "graphic design",
+                "free",
+                "image"
+            ]
+        },
+        {
+            "name" : "Humaaans",
+            "title": "Humaaans: Mix-&amp;-Match illustration library",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.humaaans.com/",
+            "image":"https://assets.website-files.com/5bff8886c3964a992e90d465/5c050a75fc73fba30bf816f1_seo-rectangle.jpg",
+            "desc" : "Mix-&amp;-match illustrations of people with a design library for InVIsion Studio and Sketch.",
+            "tags" :[
+                "illustration",
+                "people",
+                "sketch",
+                "generator",
+                "free",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "Paaatterns",
+            "title": "Paaatterns! for Free",
+            "category" : [
+                40
+            ],
+            "link" : "https://products.ls.graphics/paaatterns/",
+            "image":"https://ls-data.sfo2.digitaloceanspaces.com/_inner_use/OG/paaatttern.jpg",
+            "desc" : "Free collection of beautiful patterns for all vector formats",
+            "tags" :[
+                "illustration",
+                "pattern",
+                "free",
+                "graphic design",
+                "figma",
+                "XD"
+            ]
+        },
+        {
+            "name" : "The Pattern Library",
+            "category" : [
+                40
+            ],
+            "link" : "http://thepatternlibrary.com/",
+            "desc" : "Patterns for the people, by the people",
+            "tags" :[
+                "illustration",
+                "pattern",
+                "free",
+                "graphic design",
+                "creative"
+            ]
+        },
+        {
+            "name" : "DrawKit",
+            "title": "DrawKit - Beautiful vector illustrations",
+            "category" : [
+                40
+            ],
+            "link" : "https://drawkit.com/",
+            "image":"https://assets-global.website-files.com/5bcb46130508ef456a7b2930/5f4c375c17865e08a63421ac_drawkit-og.png",
+            "desc" : "Free and premium vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.",
+            "tags" :[
+                "illustration",
+                "free",
+                "graphic design",
+                "creative",
+                "people"
+            ]
+        },
+        {
+            "name" : "Absurd Design",
+            "title": "Absurd Design - Free Surrealist Illustrations and Vector Art",
+            "category" : [
+                40
+            ],
+            "link" : "https://absurd.design/",
+            "image":"https://absurd.design/assets/img/social.jpg",
+            "desc" : "Download surrealist illustrations. Use free vector art for your landing pages, presentations and apps. These artworks combine the absurdity and childishness.",
+            "tags" :[
+                "illustration",
+                "art",
+                "vector",
+                "sketch",
+                "free",
+                "UI"
+            ]
+        },
+        {
+            "name" : "404 Illustrations",
+            "title": "Free catchy scenes for extraordinary error pages",
+            "category" : [
+                40
+            ],
+            "link" : "https://error404.fun/",
+            "image":"https://error404.fun/img/Open-Graph.png",
+            "desc" : "A growing collection of illustrations for your page-not-found message. Choose a scene to inform the user of the error occurred in interesting ways. Use futuristic elements or stay traditional with cute characters. All scenes are compatible with Sketch and Figma.",
+            "tags" :[
+                "illustration",
+                "figma",
+                "graphic design",
+                "UI",
+                "free",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "ManyPixels",
+            "title": "Free to Use Clip Art Images &amp; Vector Illustrations | ManyPixels",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.manypixels.co/gallery",
+            "image":"https://www.manypixels.co/Illustrations Gallery Thumbnails.png",
+            "desc" : "Download our 2,000+ editable and royalty-free SVG and PNG illustrations to power up your designs.",
+            "tags" :[
+                "illustration",
+                "free",
+                "people",
+                "SVG",
+                "generator",
+                "vector",
+                "graphic design",
+                "blog"
+            ]
+        },
+        {
+            "name" : "Open Peeps",
+            "title": "Open Peeps, Hand-Drawn Illustration Library",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.openpeeps.com/",
+            "image":"https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce05258ffe802886ef21_cover-1.png",
+            "desc" : "Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want!",
+            "tags" :[
+                "illustration",
+                "free",
+                "figma",
+                "graphic design",
+                "design"
+            ]
+        },
+        {
+            "name" : "Animaticons",
+            "title": "Animaticons - Beautiful, customizable animated GIF icons",
+            "category" : [
+                40
+            ],
+            "link" : "https://animaticons.co/",
+            "image":"https://animaticons.co/wp-content/uploads/2015/10/animat-og.png",
+            "desc" : "Animaticons are a growing set of beautiful, high-resolution, animated GIF icons that you can customize. They are perfect for websites, emails, presentations and more",
+            "tags" :[
+                "illustration",
+                "icon",
+                "animation",
+                "free",
+                "gif",
+                "graphic design",
+                "UI"
+            ]
         }
     ]
 
