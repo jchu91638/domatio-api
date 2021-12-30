@@ -2576,7 +2576,7 @@
                 30
             ],
             "link" : "https://materialdesignicons.com/",
-            "image": "",
+
             "desc" : "View all the Material Design icons and more from the community.",
             "keywords" : "material,design,material design,icons,lollipop,android,templarian,austin andrews",
             "tags" :[
@@ -2606,7 +2606,7 @@
         },
         {
             "name" : "Zondicons",
-            "title": "",
+
             "category" : [
                 30
             ],
@@ -2623,7 +2623,7 @@
                 30
             ],
             "link" : "https://endlessicons.com/",
-            "image": "",
+
             "desc" : "Free Icons and creative stuff",
             "keywords" : "free icons, icons, royalty-free icons",
             "tags" :[
@@ -2846,7 +2846,7 @@
             ],
             "link" : "https://eos-icons.com/",
             "image": "https://res.cloudinary.com/eosdesignsystem/image/upload/v1600948913/EOS/Social/eos-icons-social-media.jpg",
-            "desc" : "",
+
             "tags" :[
                 "icon",
                 "free",
@@ -2973,7 +2973,7 @@
             "category" : [
                 30
             ],
-            "link" : "",
+
             "image" : "https://iconhub.io/img/hero.jpeg",
             "desc" : "Save your penny and time creating from scratch, use these diverse Icon set to complete your awesome design",
             "tags" :[
@@ -3182,7 +3182,6 @@
                 30
             ],
             "link" : "https://erikflowers.github.io/weather-icons/",
-            "image":"",
             "desc" : "Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!",
             "tags" :[
                 "icon",
@@ -3273,7 +3272,7 @@
             "link" : "https://linea.io/",
             "image":"https://linea.io/blg/lna/img/social.webp",
             "desc" : "Personalizing the icons of your PC or your website is a fun way to spruce up the appeal. You can use better Icons instead of the regular boring folders. However, you need to know where to find the best icons. Here are several sites where you can safely find beautiful icons. Where to find free &hellip; Linea Icons :20+ Best Sites for Free Icons",
-            "keywords":"",
+        
             "tags" :[
                 "icon",
                 "UI",
@@ -3761,7 +3760,7 @@
             "link" : "https://www.vexels.com/",
             "image":"https://cdn.vexels.com/img/Open-Graph-Home-Vexels.jpg",
             "desc" : "Graphic Resources for Commercial &amp; Merch Use ✓ Vector image illustrations, logos, design templates &amp; more ✓ T-Shirt Designs &amp; other Merch  ✓ PNG, AI, SVG, JPG, PDF",
-            "keywords":"",
+        
             "tags" :[
                 "illustration",
                 "free",
@@ -4278,6 +4277,200 @@
                 "background",
                 "free",
                 "web design"
+            ]
+        },
+        {
+            "name" : "Storyset",
+            "title": "Storyset | Customize, animate and download illustration for free",
+            "category" : [
+                40
+            ],
+            "link" : "https://storyset.com/",
+            "desc" : "Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor ✅",
+            "tags" :[
+                "illustration",
+                "free",
+                "custom",
+                "generator",
+                "graphic design",
+                "web design",
+                "animation",
+                "people"
+            ]
+        },
+        {
+            "name" : "Black Illustrations",
+            "title": "Illustrations of Black People for Your Next Digital Project | Black Illustrations",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.blackillustrations.com/",
+            "image":"https://assets.website-files.com/5f0a234d1293a2f4eb599bb5/5f0b0af963d9d8914a9fbad8_Black%20Illustrations%20-%20Open%20Graph%20Image.jpg",
+            "desc" : "Black illustrations is a series of FREE digital designs of black people for your next online project. Free for commercial and personal use.",
+            "tags" :[
+                "illustration",
+                "free",
+                "people",
+                "graphic design",
+                "web design"
+            ]
+        },
+        {
+            "name" : "Delesign",
+            "title": "Delesign Free Designs",
+            "category" : [
+                40
+            ],
+            "link" : "https://delesign.com/free-designs/graphics",
+            "image":"https://delesign.com/free-designs/graphics/public/images/delesign-opengraph.png",
+            "tags" :[
+                "illustration",
+                "graphic design",
+                "free",
+                "people",
+                "SVG",
+                "web design",
+                "icon"
+            ]
+        },
+        {
+            "name" : "Shape Divider App",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.shapedivider.app/",
+            "image":"https://shapedivider.app/static/assets/images/shape_divider_app_share.png",
+            "desc" : "Create fully responsive shape dividers for your next web project",
+            "tags" :[
+                "illustration",
+                "SVG",
+                "UI",
+                "web design",
+                "generator",
+                "background"
+            ]
+        },
+        {
+            "name" : "SMART",
+            "title": "SMART - Servier Medical ART",
+            "category" : [
+                40
+            ],
+            "link" : "https://smart.servier.com/",
+            "desc" : "Servier Medical Art provides you with thousands of professionally designed medical elements for your presentations and your scientific publications.",
+            "tags" :[
+                "illustration",
+                "medical",
+                "art",
+                "graphic design",
+                "UI"
+            ]
+        },
+        {
+            "name" : "Clker",
+            "title": "Free Clip Art & Images - Millions of Royalty Free Images | Clker",
+            "category" : [
+                40
+            ],
+            "link" : "http://www.clker.com/",
+            "desc" : "Clker.com provides hundreds of thousands of free clip art & vector images that you can download or embed anywhere at no cost. The best in free images.",
+            "keywords":"royalty free images, royalty free clip art, clker, clipart, clip, art, openoffice, openoffice.org, public domain, creative commons, svg, odg, png, cartoon, vector clip art, royalty free images, royalty free graphic, stock photos",
+            "tags" :[
+                "illustration",
+                "SVG",
+                "vector",
+                "graphic design",
+                "free",
+                "image"
+            ]
+        },
+        {
+            "name" : "Svg Wave",
+            "title": "Svg Wave - A free and beautiul gradient SVG wave Generator.",
+            "category" : [
+                40
+            ],
+            "link" : "https://svgwave.in/",
+            "image":"https://svgwave.in/images/29cf875dd59e3301be675929e0ea67a8-3-01.svg",
+            "desc" : "SVG Wave is a minimal svg wave generator with lot of customization. It lets you abiltiy to generate and export pngs and svgs of beautiful waves. SVG wave also lets you layer multiple waves. Create SVGs for your website designs.",
+        
+            "tags" :[
+                "illustration",
+                "generator",
+                "SVG",
+                "background",
+                "animation",
+                "UI",
+                "web design"
+            ]
+        },
+        {
+            "name" : "Heritage Library",
+            "title": "Heritage Library - Free Vintage Illustrations",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.heritagetype.com/pages/free-vintage-illustrations",
+            "image":"https://i.shgcdn.com/e8a36529-47e6-4350-aced-abecad3c728b/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "desc" : "Heritage LibraryFREE Vintage Illustrations for your creative projects! Heritage LibraryFREE Vintage Illustrations for your creative projects! — The Heritage Library collects beautiful illustrations from the past which are 100% free to use. We carefully researched and edited the content to make it useable for you in pri",
+            "tags" :[
+                "illustration",
+                "graphic design",
+                "free",
+                "UI",
+                "vintage"
+            ]
+        },
+        {
+            "name" : "RoboHash",
+            "title": "GENERATE UNIQUE IMAGES FROM ANY TEXT",
+            "category" : [
+                40
+            ],
+            "link" : "https://robohash.org/",
+            "image":"https://robohash.org/static/img/top_logo.png",
+            "desc" : "Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text. Put in any text, such as IP address, email, filename, userid, or whatever else you like, and get back a pretty image for your site.",
+            "tags" :[
+                "illustration",
+                "generator",
+                "fun",
+                "people",
+                "free",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "William Sharkey",
+            "title": "Random SVG Graphic Generator",
+            "category" : [
+                40
+            ],
+            "link" : "http://williamsharkey.com/Shapes.html",
+            "tags" :[
+                "illustration",
+                "generator",
+                "graphic design",
+                "free",
+                "CSS",
+                "SVG"
+            ]
+        },
+        {
+            "name" : "Transparent Textures",
+            "category" : [
+                40
+            ],
+            "link" : "https://www.transparenttextures.com/",
+            "image":"https://www.transparenttextures.com/patterns/3px-tile.png",
+            "desc" : "Standing on the shoulders of Subtle Patterns. Built and maintained by @mikehearn.",
+            "tags" :[
+                "illustration",
+                "background",
+                "web design",
+                "UI",
+                "graphic design",
+                "generator",
+                "free"
             ]
         }
     ]
