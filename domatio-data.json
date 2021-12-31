@@ -4472,6 +4472,204 @@
                 "generator",
                 "free"
             ]
+        },
+        {
+            "name" : "Flexbox Froggy",
+            "title": "Flexbox Froggy - A game for learning CSS flexbox",
+            "category" : [
+                50
+            ],
+            "link" : "https://flexboxfroggy.com/",
+            "image":"https://flexboxfroggy.com/images/screenshot.png",
+            "desc" : "A game for learning CSS flexbox",
+            "tags" :[
+                "games",
+                "CSS",
+                "flexbox",
+                "skill",
+                "learning",
+                "frontend"
+            ]
+        },
+        {
+            "name" : "Grid Garden",
+            "title": "Grid Garden - A game for learning CSS grid layout",
+            "category" : [
+                50
+            ],
+            "link" : "http://cssgridgarden.com/",
+            "image":"https://cssgridgarden.com/images/screenshot.png",
+            "desc" : "A game for learning CSS grid layout",
+            "tags" :[
+                "games",
+                "CSS",
+                "layout",
+                "web design",
+                "skill",
+                "learning",
+                "frontend"
+            ]
+        },
+        {
+            "name" : "Named Colours",
+            "category" : [
+                50
+            ],
+            "link" : "https://codepo8.github.io/css-colour-names/",
+            "tags" :[
+                "games",
+                "color",
+                "CSS",
+                "graphic design"
+            ]
+        },
+        {
+            "name" : "CodeCombat",
+            "title": "CodeCombat - Coding games to learn Python and JavaScript",
+            "category" : [
+                50
+            ],
+            "link" : "https://codecombat.com/",
+            "image":"https://codecombat.com/images/pages/home/play_img.png",
+            "desc" : "Learn programming with a multiplayer live coding strategy game for beginners. Learn Python or JavaScript as you defeat ogres, solve mazes, and level up. Open source HTML5 game!",
+            "keywords":"CodeCombat, python, javascript, Coding Games",
+            "tags" :[
+                "games",
+                "python",
+                "javascript",
+                "programming",
+                "skill",
+                "learning"
+            ]
+        },
+        {
+            "name" : "Hex Invaders",
+            "category" : [
+                50
+            ],
+            "link" : "http://www.hexinvaders.com/",
+            "image":"http://www.hexinvaders.com/img/logoBig.png",
+            "desc" : "Hex Invaders - Saving the world one color at a time!",
+            "tags" :[
+                "games",
+                "color"
+            ]
+        },
+        {
+            "name" : "Pixactly",
+            "title": "Pixel Game: A Pixels Test to Quiz Your Knowledge | Pixactly",
+            "category" : [
+                50
+            ],
+            "link" : "https://www.pixact.ly/",
+            "image":"http://www.pixact.ly/img/unicorn.jpg",
+            "desc" : "Pixactly is an online tool that tests how well you know your pixels. Try it for yourself! #pixactly",
+            "keywords":"pixel game, pixel tool, pixel quiz, pixel test, pixactly, pixel, game, perfect, web design, digital",
+            "tags" :[
+                "games",
+                "web design",
+                "skill",
+                "knowledge",
+                "quiz"
+            ]
+        },
+        {
+            "name" : "CSS Diner",
+            "title": "CSS Diner - Where we feast on CSS Selectors!",
+            "category" : [
+                50
+            ],
+            "link" : "https://flukeout.github.io/",
+            "image":"https://flukeout.github.io/images/fb-share.jpg",
+            "desc" : "A fun game to help you learn and practice CSS selectors.",
+            "tags" :[
+                "games",
+                "CSS",
+                "skill",
+                "frontend",
+                "layout"
+            ]
+        },
+        {
+            "name" : "Screeps",
+            "title": "Screeps - MMO strategy sandbox game for programmers",
+            "category" : [
+                50
+            ],
+            "link" : "https://screeps.com/",
+            "image":"https://screeps.com/img/teaser.png",
+            "desc" : "A strategy sandbox MMO game with a persistent open world where you play by writing JavaScripts to control your units. They live within the game and operate autonomously even while you are offline!",
+            "tags" :[
+                "games",
+                "programming",
+                "skill",
+                "development",
+                "javascript"
+            ]
+        },
+        {
+            "name" : "Dungeons & Developers",
+            "title": "An RPG-style talent tree for web developers.",
+            "category" : [
+                50
+            ],
+            "link" : "http://www.dungeonsanddevelopers.com/",
+            "image":"http://www.dungeonsanddevelopers.com/img/logo.png",
+            "keywords":"web design, development, rpg game, talent, skill",
+            "tags" :[
+                "games",
+                "web design",
+                "skill",
+                "development",
+                "developer"
+            ]
+        },
+        {
+            "name" : "Elevator Saga",
+            "title": "Elevator Saga - the elevator programming game",
+            "category" : [
+                50
+            ],
+            "link" : "http://play.elevatorsaga.com/",
+            "tags" :[
+                "games",
+                "programming",
+                "skill",
+                "learning"
+            ]
+        },
+        {
+            "name" : "Flexbox Defense",
+            "category" : [
+                50
+            ],
+            "link" : "http://www.flexboxdefense.com/",
+            "image":"http://www.flexboxdefense.com/images/gameboard-b58cd885d125374f5156eac2d6c3b62c.png",
+            "desc" : "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!",
+            "tags" :[
+                "games",
+                "CSS",
+                "flexbox",
+                "skill",
+                "learning"
+            ]
+        },
+        {
+            "name" : "Codin Game",
+            "title": "Coding Games and Programming Challenges to Code Better",
+            "category" : [
+                50
+            ],
+            "link" : "https://www.codingame.com/",
+            "image":"https://files.codingame.com/codingame/codingame_share_pics.jpg",
+            "desc" : "CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics. Solve games, code AI bots, learn from your peers, have fun.",
+            "tags" :[
+                "games",
+                "coding",
+                "programming",
+                "skill",
+                "learning"
+            ]
         }
     ]
 
