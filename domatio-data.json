@@ -4670,6 +4670,100 @@
                 "skill",
                 "learning"
             ]
+        },
+        {
+            "name" : "GitHub",
+            "title": "Build software better, together",
+            "category" : [
+                55
+            ],
+            "link" : "https://github.com/",
+            "image":"https://github.githubassets.com/images/modules/open_graph/github-mark.png",
+            "desc" : "GitHub is where people build software. More than 73 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+            "tags" :[
+                "social",
+                "developer",
+                "development",
+                "software engineering",
+                "version control",
+                "github",
+                "git"
+            ]
+        },
+        {
+            "name" : "Stack Overflow",
+            "title": "Stack Overflow - Where Developers Learn, Share, &amp; Build Careers",
+            "category" : [
+                55
+            ],
+            "link" : "https://stackoverflow.com/",
+            "image":"https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "desc" : "Stack Overflow | The World&#x2019;s Largest Online Community for Developers",
+            "tags" :[
+                "social",
+                "development",
+                "developer",
+                "community",
+                "learning",
+                "research"
+            ]
+        },
+        {
+            "name" : "Medium",
+            "title": "Medium – Where good ideas find you.",
+            "category" : [
+                55
+            ],
+            "link" : "https://medium.com/",
+            "image":"https://miro.medium.com/1*5ER2KRyL5S0S_xX8Pf0lgg.png",
+            "desc" : "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+            "tags" :[
+                "social",
+                "community",
+                "writing",
+                "knowledge",
+                "learning",
+                "blog",
+                "documentation",
+                "research"
+            ]
+        },
+        {
+            "name" : "DEV.to",
+            "title": "DEV Community 👩‍💻👨‍💻",
+            "category" : [
+                55
+            ],
+            "link" : "https://dev.to/",
+            "image":"https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
+            "desc" : "A constructive and inclusive social network for software developers. With you every step of your journey.",
+            "keywords":"software development, engineering, rails, javascript, ruby",
+            "tags" :[
+                "social",
+                "software engineering",
+                "developer",
+                "development",
+                "knowledge",
+                "community",
+                "blog",
+                "learning"
+            ]
+        },
+        {
+            "name" : "Quora",
+            "title": "Quora - A place to share knowledge and better understand the world",
+            "category" : [
+                55
+            ],
+            "link" : "https://www.quora.com/",
+            "image":"https://qsf.fs.quoracdn.net/-4-images.Illustration_fb_share_default_1280x720.png-26-7b8bc71e8107b6f5.png",
+            "tags" :[
+                "social",
+                "community",
+                "learning",
+                "development",
+                "knowledge"
+            ]
         }
     ]
 
