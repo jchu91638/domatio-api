@@ -3360,7 +3360,7 @@
         {
             "name" : "Pinterest",
             "category" : [
-                35
+                35, 45
             ],
             "link" : "https://www.pinterest.com/",
             "image":"https://s.pinimg.com/images/facebook_share_image.png",
